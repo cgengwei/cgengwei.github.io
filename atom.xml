@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-05-27T15:46:31.579Z</updated>
+    <updated>2020-05-27T16:06:12.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,64 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[非计算机书单]]></title>
+        <id>https://cgengwei.github.io/post/fei-ji-suan-ji-shu-dan/</id>
+        <link href="https://cgengwei.github.io/post/fei-ji-suan-ji-shu-dan/">
+        </link>
+        <updated>2020-05-27T15:59:10.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="原生家庭">原生家庭</h2>
+<ul>
+<li>《当你像鸟飞往你的山》
+<ul>
+<li>爱了爱了</li>
+<li>作者语言质朴，描写细腻，真实得让人心疼，对自己的感受和观察也是十分真切可贵</li>
+<li>结局并不完美，但这就是生活吧，幸好你走出来了。</li>
+</ul>
+</li>
+</ul>
+<h2 id="个人成长">个人成长</h2>
+<ul>
+<li>《高效能人士的七个习惯》
+<ul>
+<li>积极主动，我觉得对我非常重要，虽然我经常忘了，感谢有你</li>
+</ul>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机书单]]></title>
+        <id>https://cgengwei.github.io/post/ji-suan-ji-shu-dan/</id>
+        <link href="https://cgengwei.github.io/post/ji-suan-ji-shu-dan/">
+        </link>
+        <updated>2020-05-27T15:54:43.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="代码规范">代码规范</h2>
+<ul>
+<li>《重构》
+<ul>
+<li>真的是我的最爱</li>
+<li>真的是手把手教会了我怎么去重构代码</li>
+<li>tdd</li>
+<li>重构是一小步一小步去做</li>
+<li>什么时候重构</li>
+<li>怎么重构</li>
+<li>。。。太多太多了</li>
+</ul>
+</li>
+<li>《编写可读代码的艺术》
+<ul>
+<li>这里真的都是小技巧</li>
+</ul>
+</li>
+<li>《clean code》
+<ul>
+<li>可能还是没有细看，同样被誉为经典的书籍，我看到都是各个小技巧</li>
+</ul>
+</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[groovy 入门]]></title>
         <id>https://cgengwei.github.io/post/groovy-ru-men/</id>
@@ -47,9 +105,10 @@
 <li>每个句子不需要“；”默认换行就是分隔</li>
 <li>一个groovy文件，默认是会引入很多包的</li>
 <li>对于groovy的list，map声明 &amp;&amp; 文件的操作 还是需要了解一下，可能会经常用到</li>
-<li>对于一个groovy文件，可以声明多个公共类</li>
+<li>对于一个groovy文件，可以声明多个公共类，声明的类默认都是公共类，哈哈哈</li>
 <li>对于没有类包起来的代码，那么他就会被立马执行（跟js挺相似的）</li>
 <li>这里的方法相当于一个对象（叫做闭包Closure）</li>
+<li>一个方法（闭包）没有return语句，默认返回最后一句的执行结果</li>
 </ul>
 <p>来个实例文件 test.groovy</p>
 <pre><code>class Book {
