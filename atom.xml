@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-05-27T16:13:36.693Z</updated>
+    <updated>2020-05-27T16:35:43.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,88 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[电影]]></title>
+        <id>https://cgengwei.github.io/post/dian-ying/</id>
+        <link href="https://cgengwei.github.io/post/dian-ying/">
+        </link>
+        <updated>2020-05-27T16:18:59.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="个人">个人</h2>
+<ul>
+<li>《天堂电影院》
+<ul>
+<li>我的感想</li>
+</ul>
+<pre><code>世界还蛮大的，出去走走
+</code></pre>
+<ul>
+<li>好句子</li>
+</ul>
+<pre><code>人生和电影不同，人生辛苦多了。如果你不出去走走，你就会以为这就是全世界。
+
+在这里居住了一天又一天，你认为这里就是世界的中心。你相信一切都永不会改变。
+然后你离开了，一年，两年，当你回来时，一切都变了。
+那条线断了，你所寻找的并不是这里。你只能再次离开很长时间……很多年……
+直到你能回来寻找你的人们，你出生的土地。但是现在不可能。现在你比我还要瞎。
+
+</code></pre>
+</li>
+</ul>
+<h2 id="世界还挺大的">世界还挺大的</h2>
+<ul>
+<li>《美丽心灵》
+<ul>
+<li>我的感想</li>
+</ul>
+<pre><code>原来还真的存在有的人的一生，都在解题，都在追求学术，这是我小时候的想法呀
+
+原来真存在精神分裂，真挺难受的，幸好你走过来了
+</code></pre>
+</li>
+</ul>
+<h2 id="原生家庭">原生家庭</h2>
+<ul>
+<li>《被嫌弃的松子的一生》
+<ul>
+<li>我的感想</li>
+</ul>
+<pre><code>扎心了！
+
+花了一生治愈童年，却也没能治愈。
+
+感觉挺像自己小时候的心理——对不起，给家庭造成负担了
+
+我能治愈自己吗？我能过好我的一生吗？
+哈哈哈！！！
+</code></pre>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感想]]></title>
+        <id>https://cgengwei.github.io/post/gan-xiang/</id>
+        <link href="https://cgengwei.github.io/post/gan-xiang/">
+        </link>
+        <updated>2020-05-27T16:17:25.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="拖延相关">拖延相关</h2>
+<ul>
+<li>完成比完美更重要</li>
+<li>倒数5秒，然后去做</li>
+<li></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gradle 入门]]></title>
+        <id>https://cgengwei.github.io/post/gradle-ru-men/</id>
+        <link href="https://cgengwei.github.io/post/gradle-ru-men/">
+        </link>
+        <updated>2020-05-27T16:16:01.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="gradle是个啥">gradle是个啥</h2>
+<h2 id="gradle有啥门槛">gradle有啥门槛</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[非计算机书单]]></title>
         <id>https://cgengwei.github.io/post/fei-ji-suan-ji-shu-dan/</id>
@@ -32,7 +114,9 @@
 <ul>
 <li>积极主动，我觉得对我非常重要，虽然我经常忘了，感谢有你
 <ul>
+<li>我们从依赖人格-&gt;独立人格，那就是你需要积极主动，这是你的人生</li>
 <li>你作为一个人，你永远有选择的空间</li>
+<li>这世界没人能伤害你，除非你同意</li>
 </ul>
 </li>
 <li>以原则为中心构建看待世界</li>
