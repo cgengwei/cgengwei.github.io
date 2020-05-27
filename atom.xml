@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-05-27T17:32:12.199Z</updated>
+    <updated>2020-05-27T17:36:17.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -48,15 +48,8 @@
         <link href="https://cgengwei.github.io/post/lesslesstian-tang-dian-ying-yuan-greatergreater/">
         </link>
         <updated>2020-05-27T17:13:24.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>《天堂电影院》
-<ul>
-<li>我的感想</li>
-</ul>
-<pre><code>世界还蛮大的，出去走走
+        <content type="html"><![CDATA[<pre><code>世界还蛮大的，出去走走
 </code></pre>
-</li>
-</ul>
 ]]></content>
     </entry>
     <entry>
@@ -67,7 +60,7 @@
         <updated>2020-05-27T16:18:59.000Z</updated>
         <content type="html"><![CDATA[<h2 id="个人">个人</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1109144"><label class="task-list-item-label" for="task-item-1109144"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8030797"><label class="task-list-item-label" for="task-item-8030797"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
 
 如果你不出去走走，你就会以为这就是全世界。
 
@@ -80,11 +73,11 @@
 </ul>
 <h2 id="世界还挺大的">世界还挺大的</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2550158"><label class="task-list-item-label" for="task-item-2550158"> 《美丽心灵》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6764723"><label class="task-list-item-label" for="task-item-6764723"> 《美丽心灵》</label></li>
 </ul>
 <h2 id="原生家庭">原生家庭</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4990853"><label class="task-list-item-label" for="task-item-4990853"> 《被嫌弃的松子的一生》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8678664"><label class="task-list-item-label" for="task-item-8678664"> 《被嫌弃的松子的一生》</label></li>
 </ul>
 ]]></content>
     </entry>
