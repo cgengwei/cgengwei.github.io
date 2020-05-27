@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-05-27T16:06:12.702Z</updated>
+    <updated>2020-05-27T16:13:36.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -30,7 +30,17 @@
 <ul>
 <li>《高效能人士的七个习惯》
 <ul>
-<li>积极主动，我觉得对我非常重要，虽然我经常忘了，感谢有你</li>
+<li>积极主动，我觉得对我非常重要，虽然我经常忘了，感谢有你
+<ul>
+<li>你作为一个人，你永远有选择的空间</li>
+</ul>
+</li>
+<li>以原则为中心构建看待世界</li>
+</ul>
+</li>
+<li>《gtd》
+<ul>
+<li>我想心无旁骛地工作</li>
 </ul>
 </li>
 </ul>
