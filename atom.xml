@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-05-27T16:35:43.643Z</updated>
+    <updated>2020-05-27T17:20:48.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -11,7 +11,24 @@
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
     <entry>
-        <title type="html"><![CDATA[电影]]></title>
+        <title type="html"><![CDATA[《天堂电影院》]]></title>
+        <id>https://cgengwei.github.io/post/lesslesstian-tang-dian-ying-yuan-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslesstian-tang-dian-ying-yuan-greatergreater/">
+        </link>
+        <updated>2020-05-27T17:13:24.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>《天堂电影院》
+<ul>
+<li>我的感想</li>
+</ul>
+<pre><code>世界还蛮大的，出去走走
+</code></pre>
+</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电影清单]]></title>
         <id>https://cgengwei.github.io/post/dian-ying/</id>
         <link href="https://cgengwei.github.io/post/dian-ying/">
         </link>
@@ -33,7 +50,6 @@
 然后你离开了，一年，两年，当你回来时，一切都变了。
 那条线断了，你所寻找的并不是这里。你只能再次离开很长时间……很多年……
 直到你能回来寻找你的人们，你出生的土地。但是现在不可能。现在你比我还要瞎。
-
 </code></pre>
 </li>
 </ul>
