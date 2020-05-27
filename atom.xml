@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-05-27T15:38:47.750Z</updated>
+    <updated>2020-05-27T15:46:31.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -41,8 +41,39 @@
 <li>不过不建议一上来就看这篇文档，先大概了解groovy的大概内容</li>
 </ul>
 </li>
-<li></li>
 </ul>
+<h1 id="自己觉得需要注意的点">自己觉得需要注意的点</h1>
+<ul>
+<li>每个句子不需要“；”默认换行就是分隔</li>
+<li>一个groovy文件，默认是会引入很多包的</li>
+<li>对于groovy的list，map声明 &amp;&amp; 文件的操作 还是需要了解一下，可能会经常用到</li>
+<li>对于一个groovy文件，可以声明多个公共类</li>
+<li>对于没有类包起来的代码，那么他就会被立马执行（跟js挺相似的）</li>
+<li>这里的方法相当于一个对象（叫做闭包Closure）</li>
+</ul>
+<p>来个实例文件 test.groovy</p>
+<pre><code>class Book {
+    String title
+}
+class Good{
+    String name
+    Closure closure = {
+        println 'i am closure'
+    }
+}
+
+Book.metaClass.author = &quot;Stephen King&quot;
+def b = new Book()
+
+def goodDemo = new Good()
+goodDemo.name = 'asdfkjasf'
+goodDemo.closure()
+
+assert &quot;Stephen King&quot; == b.author
+println goodDemo.name
+println 'asdkfjakdfj'
+
+</code></pre>
 ]]></content>
     </entry>
     <entry>
