@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-05-27T17:20:48.573Z</updated>
+    <updated>2020-05-27T17:25:14.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[《美丽心灵》 ]]></title>
+        <id>https://cgengwei.github.io/post/lesslessmei-li-xin-ling-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslessmei-li-xin-ling-greatergreater/">
+        </link>
+        <updated>2020-05-27T17:24:18.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>我的感想<pre><code>原来还真的存在有的人的一生，都在解题，都在追求学术，这是我小时候的想法呀
+
+原来真存在精神分裂，真挺难受的，幸好你走过来了
+</code></pre>
+</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《天堂电影院》]]></title>
         <id>https://cgengwei.github.io/post/lesslesstian-tang-dian-ying-yuan-greatergreater/</id>
@@ -34,17 +49,10 @@
         </link>
         <updated>2020-05-27T16:18:59.000Z</updated>
         <content type="html"><![CDATA[<h2 id="个人">个人</h2>
-<ul>
-<li>《天堂电影院》
-<ul>
-<li>我的感想</li>
-</ul>
-<pre><code>世界还蛮大的，出去走走
-</code></pre>
-<ul>
-<li>好句子</li>
-</ul>
-<pre><code>人生和电影不同，人生辛苦多了。如果你不出去走走，你就会以为这就是全世界。
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5188784"><label class="task-list-item-label" for="task-item-5188784"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
+
+如果你不出去走走，你就会以为这就是全世界。
 
 在这里居住了一天又一天，你认为这里就是世界的中心。你相信一切都永不会改变。
 然后你离开了，一年，两年，当你回来时，一切都变了。
@@ -54,20 +62,12 @@
 </li>
 </ul>
 <h2 id="世界还挺大的">世界还挺大的</h2>
-<ul>
-<li>《美丽心灵》
-<ul>
-<li>我的感想</li>
-</ul>
-<pre><code>原来还真的存在有的人的一生，都在解题，都在追求学术，这是我小时候的想法呀
-
-原来真存在精神分裂，真挺难受的，幸好你走过来了
-</code></pre>
-</li>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-446417"><label class="task-list-item-label" for="task-item-446417"> 《美丽心灵》</label></li>
 </ul>
 <h2 id="原生家庭">原生家庭</h2>
-<ul>
-<li>《被嫌弃的松子的一生》
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8554913"><label class="task-list-item-label" for="task-item-8554913"> 《被嫌弃的松子的一生》</label>
 <ul>
 <li>我的感想</li>
 </ul>
