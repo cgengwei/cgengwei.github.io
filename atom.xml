@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-06-01T16:37:00.103Z</updated>
+    <updated>2020-06-01T23:53:01.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[6月份记录]]></title>
+        <id>https://cgengwei.github.io/post/6-yue-fen-ji-lu/</id>
+        <link href="https://cgengwei.github.io/post/6-yue-fen-ji-lu/">
+        </link>
+        <updated>2020-06-01T16:38:30.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1日">1日</h1>
+<pre><code>- asdfjk
+- 爱神的箭开发
+- 阿双方均
+- 奥卡福
+</code></pre>
+<h1 id="2ri">2ri</h1>
+<ul>
+<li>asjf</li>
+<li>askf</li>
+<li>askdjf</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020年6月目标]]></title>
         <id>https://cgengwei.github.io/post/2020-nian-6-yue/</id>
@@ -45,6 +65,43 @@
 - 奖励
     - 奖励自己1000元，用于后面买电子产品（电脑或者手机）
 </code></pre>
+<h1 id="副业">副业</h1>
+<pre><code>- 愿景
+    - 有一天不想工作了，那么就辞职了
+    - 每个月能多那么几百块上千块来花花就很棒
+    - 搞明白这个论坛项目改怎么落地
+- 任务分解
+    - 先搞个开源的java论坛
+        - 先找一下开源的java论坛
+        - 运行起来
+    - 学习seo运营
+    - 确定论坛主题
+        - 主题条件
+            - 百度内容较少
+            - 开始有公众号做相关的内容
+- 原则
+    - 慢慢来
+</code></pre>
+<h1 id="唱歌">唱歌</h1>
+<pre><code>- 愿景
+    - 随时随地唱我喜欢的歌曲
+    - 给我最爱的人唱歌听
+- 任务分解
+    - 先把唱歌讲解视频看下来
+    - 记录学唱歌的方法步骤
+- 原则
+    - 先不用管怎么练，把学习的路径和步骤记下来，后面再安排练习
+- 奖励
+    - 每天多听两首歌
+</code></pre>
+<h1 id="洗牙补牙">洗牙补牙</h1>
+<pre><code>- 愿景
+    - 一口健康的牙齿
+- 任务分解
+    - 先洗牙
+    - 再看牙科内科
+    - 再补牙
+</code></pre>
 ]]></content>
     </entry>
     <entry>
@@ -59,8 +116,8 @@
 </ul>
 <h1 id="清单">清单</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5202061"><label class="task-list-item-label" for="task-item-5202061"> 《人生七年》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8798658"><label class="task-list-item-label" for="task-item-8798658"> 《但是还有书籍》</label>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9822603"><label class="task-list-item-label" for="task-item-9822603"> 《人生七年》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9724840"><label class="task-list-item-label" for="task-item-9724840"> 《但是还有书籍》</label>
 <ul>
 <li>https://b23.tv/ep299985</li>
 </ul>
@@ -129,7 +186,7 @@
         <updated>2020-05-27T16:18:59.000Z</updated>
         <content type="html"><![CDATA[<h2 id="个人">个人</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9167669"><label class="task-list-item-label" for="task-item-9167669"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8346082"><label class="task-list-item-label" for="task-item-8346082"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
 
 如果你不出去走走，你就会以为这就是全世界。
 
@@ -142,12 +199,12 @@
 </ul>
 <h2 id="世界还挺大的">世界还挺大的</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-483883"><label class="task-list-item-label" for="task-item-483883"> 《美丽心灵》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8960469"><label class="task-list-item-label" for="task-item-8960469"> 《赛德克·巴莱》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6669523"><label class="task-list-item-label" for="task-item-6669523"> 《美丽心灵》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4414627"><label class="task-list-item-label" for="task-item-4414627"> 《赛德克·巴莱》</label></li>
 </ul>
 <h2 id="原生家庭">原生家庭</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2219846"><label class="task-list-item-label" for="task-item-2219846"> 《被嫌弃的松子的一生》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5729531"><label class="task-list-item-label" for="task-item-5729531"> 《被嫌弃的松子的一生》</label></li>
 </ul>
 ]]></content>
     </entry>
@@ -173,49 +230,6 @@
         <updated>2020-05-27T16:16:01.000Z</updated>
         <content type="html"><![CDATA[<h2 id="gradle是个啥">gradle是个啥</h2>
 <h2 id="gradle有啥门槛">gradle有啥门槛</h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非计算机书单]]></title>
-        <id>https://cgengwei.github.io/post/fei-ji-suan-ji-shu-dan/</id>
-        <link href="https://cgengwei.github.io/post/fei-ji-suan-ji-shu-dan/">
-        </link>
-        <updated>2020-05-27T15:59:10.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="原生家庭">原生家庭</h2>
-<ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7762070"><label class="task-list-item-label" for="task-item-7762070"> 《当你像鸟飞往你的山》</label>
-<ul>
-<li>爱了爱了</li>
-<li>作者语言质朴，描写细腻，真实得让人心疼，对自己的感受和观察也是十分真切可贵</li>
-<li>结局并不完美，但这就是生活吧，幸好你走出来了。</li>
-</ul>
-</li>
-</ul>
-<h2 id="个人成长">个人成长</h2>
-<ul class="contains-task-list">
-<li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5729246"><label class="task-list-item-label" for="task-item-5729246"> 《高效能人士的七个习惯》</label></p>
-<ul>
-<li>积极主动，我觉得对我非常重要，虽然我经常忘了，感谢有你
-<ul>
-<li>我们从依赖人格-&gt;独立人格，那就是你需要积极主动，这是你的人生</li>
-<li>你作为一个人，你永远有选择的空间</li>
-<li>这世界没人能伤害你，除非你同意</li>
-</ul>
-</li>
-<li>以原则为中心构建看待世界</li>
-</ul>
-</li>
-<li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7528118"><label class="task-list-item-label" for="task-item-7528118"> 《远见》</label></p>
-</li>
-<li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2443180"><label class="task-list-item-label" for="task-item-2443180"> 《gtd》</label></p>
-<ul>
-<li>我想心无旁骛地工作</li>
-</ul>
-</li>
-</ul>
 ]]></content>
     </entry>
 </feed>
