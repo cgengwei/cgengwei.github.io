@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-06-01T16:34:21.419Z</updated>
+    <updated>2020-06-01T16:37:00.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -11,71 +11,40 @@
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
     <entry>
-        <title type="html"><![CDATA[2020年6月]]></title>
+        <title type="html"><![CDATA[2020年6月目标]]></title>
         <id>https://cgengwei.github.io/post/2020-nian-6-yue/</id>
         <link href="https://cgengwei.github.io/post/2020-nian-6-yue/">
         </link>
         <updated>2020-06-01T16:17:04.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="目标">目标</h1>
-<ul>
-<li>减肥5斤
-<ul>
-<li>愿景
-<ul>
-<li>哈哈，瘦到毕业的模样</li>
-<li>可以去置办好看的衣服，学习穿搭</li>
-<li>瘦到称重的时候不要出现180以上了</li>
-</ul>
-</li>
-<li>任务分解
-<ul>
-<li>大概6天瘦一斤</li>
-</ul>
-</li>
-<li>原则
-<ul>
-<li>三分练，七分吃</li>
-<li>吃饭不用吃得饱，吃得差不多就收筷子</li>
-<li>家里办公室常备干粮，饿了就吃，千万别饿着自己（防止暴饮暴食）</li>
-</ul>
-</li>
-<li>奖励
-<ul>
-<li>小米蓝牙耳机来一副，大概150</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>拉勾课程4个模块
-<ul>
-<li>愿景
-<ul>
-<li>成为人们口中的大佬，接受众人的膜拜吧</li>
-<li>可以不想干了，随随便便就换工作，工作任挑</li>
-<li>吹牛也可以吹得牛皮都爆了</li>
-<li>阶段一模块二，模块三，模块四；阶段二模块一都看完，屌得不行</li>
-</ul>
-</li>
-<li>任务分解
-<ul>
-<li>每个模块一个星期</li>
-<li>额外多了两天可以拿出来整理一下</li>
-</ul>
-</li>
-<li>原则
-<ul>
-<li>完成比完美更重要</li>
-<li>每个模块至少输出一篇文章</li>
-</ul>
-</li>
-<li>奖励
-<ul>
-<li>奖励自己1000元，用于后面买电子产品（电脑或者手机）</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+        <content type="html"><![CDATA[<h1 id="减肥5斤">减肥5斤</h1>
+<pre><code>- 愿景
+    - 哈哈，瘦到毕业的模样
+    - 可以去置办好看的衣服，学习穿搭
+    - 瘦到称重的时候不要出现180以上了
+- 任务分解
+    - 大概6天瘦一斤
+- 原则
+    - 三分练，七分吃
+    - 吃饭不用吃得饱，吃得差不多就收筷子
+    - 家里办公室常备干粮，饿了就吃，千万别饿着自己（防止暴饮暴食）
+- 奖励
+    - 小米蓝牙耳机来一副，大概150
+</code></pre>
+<h1 id="拉勾课程4个模块">拉勾课程4个模块</h1>
+<pre><code>- 愿景
+    - 成为人们口中的大佬，接受众人的膜拜吧
+    - 可以不想干了，随随便便就换工作，工作任挑
+    - 吹牛也可以吹得牛皮都爆了
+    - 阶段一模块二，模块三，模块四；阶段二模块一都看完，屌得不行
+- 任务分解
+    - 每个模块一个星期
+    - 额外多了两天可以拿出来整理一下
+- 原则
+    - 完成比完美更重要
+    - 每个模块至少输出一篇文章
+- 奖励
+    - 奖励自己1000元，用于后面买电子产品（电脑或者手机）
+</code></pre>
 ]]></content>
     </entry>
     <entry>
@@ -90,8 +59,8 @@
 </ul>
 <h1 id="清单">清单</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-358682"><label class="task-list-item-label" for="task-item-358682"> 《人生七年》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3981585"><label class="task-list-item-label" for="task-item-3981585"> 《但是还有书籍》</label>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5202061"><label class="task-list-item-label" for="task-item-5202061"> 《人生七年》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8798658"><label class="task-list-item-label" for="task-item-8798658"> 《但是还有书籍》</label>
 <ul>
 <li>https://b23.tv/ep299985</li>
 </ul>
@@ -160,7 +129,7 @@
         <updated>2020-05-27T16:18:59.000Z</updated>
         <content type="html"><![CDATA[<h2 id="个人">个人</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3279840"><label class="task-list-item-label" for="task-item-3279840"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9167669"><label class="task-list-item-label" for="task-item-9167669"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
 
 如果你不出去走走，你就会以为这就是全世界。
 
@@ -173,12 +142,12 @@
 </ul>
 <h2 id="世界还挺大的">世界还挺大的</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6393507"><label class="task-list-item-label" for="task-item-6393507"> 《美丽心灵》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3573463"><label class="task-list-item-label" for="task-item-3573463"> 《赛德克·巴莱》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-483883"><label class="task-list-item-label" for="task-item-483883"> 《美丽心灵》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8960469"><label class="task-list-item-label" for="task-item-8960469"> 《赛德克·巴莱》</label></li>
 </ul>
 <h2 id="原生家庭">原生家庭</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3048392"><label class="task-list-item-label" for="task-item-3048392"> 《被嫌弃的松子的一生》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2219846"><label class="task-list-item-label" for="task-item-2219846"> 《被嫌弃的松子的一生》</label></li>
 </ul>
 ]]></content>
     </entry>
@@ -214,7 +183,7 @@
         <updated>2020-05-27T15:59:10.000Z</updated>
         <content type="html"><![CDATA[<h2 id="原生家庭">原生家庭</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1836949"><label class="task-list-item-label" for="task-item-1836949"> 《当你像鸟飞往你的山》</label>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7762070"><label class="task-list-item-label" for="task-item-7762070"> 《当你像鸟飞往你的山》</label>
 <ul>
 <li>爱了爱了</li>
 <li>作者语言质朴，描写细腻，真实得让人心疼，对自己的感受和观察也是十分真切可贵</li>
@@ -225,7 +194,7 @@
 <h2 id="个人成长">个人成长</h2>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-500929"><label class="task-list-item-label" for="task-item-500929"> 《高效能人士的七个习惯》</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5729246"><label class="task-list-item-label" for="task-item-5729246"> 《高效能人士的七个习惯》</label></p>
 <ul>
 <li>积极主动，我觉得对我非常重要，虽然我经常忘了，感谢有你
 <ul>
@@ -238,10 +207,10 @@
 </ul>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5652784"><label class="task-list-item-label" for="task-item-5652784"> 《远见》</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7528118"><label class="task-list-item-label" for="task-item-7528118"> 《远见》</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7330408"><label class="task-list-item-label" for="task-item-7330408"> 《gtd》</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2443180"><label class="task-list-item-label" for="task-item-2443180"> 《gtd》</label></p>
 <ul>
 <li>我想心无旁骛地工作</li>
 </ul>
