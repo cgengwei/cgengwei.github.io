@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-06-01T23:54:10.170Z</updated>
+    <updated>2020-06-02T00:05:23.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -11,23 +11,36 @@
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
     <entry>
-        <title type="html"><![CDATA[6月份记录]]></title>
+        <title type="html"><![CDATA[2020-06计划]]></title>
+        <id>https://cgengwei.github.io/post/2020-06-ji-hua/</id>
+        <link href="https://cgengwei.github.io/post/2020-06-ji-hua/">
+        </link>
+        <updated>2020-06-02T00:03:53.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="第一周计划">第一周计划</h1>
+<pre><code>- 减肥
+- 拉勾视频
+- 唱歌视频
+- 博客输出
+- </code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年6月记录]]></title>
         <id>https://cgengwei.github.io/post/6-yue-fen-ji-lu/</id>
         <link href="https://cgengwei.github.io/post/6-yue-fen-ji-lu/">
         </link>
         <updated>2020-06-01T16:38:30.000Z</updated>
         <content type="html"><![CDATA[<h1 id="1日">1日</h1>
-<pre><code>- asdfjk
-- 爱神的箭开发
-- 阿双方均
-- 奥卡福
-</code></pre>
-<h1 id="2ri">2ri</h1>
-<ul>
-<li>asjf</li>
-<li>askf</li>
-<li>askdjf</li>
-</ul>
+<pre><code>- 减肥
+    - 走了4.4公里
+    - 刻意控制自己的饮食
+- 拉勾课程
+    - 今天重新开始看课程，虽然一个都没看完，但是是个好的开始
+- 其他
+    - 做了6月份的目标
+    - 个人所得税
+    - 看了唱歌视频的第二集，但是需要2号重新记录一下
+    - </code></pre>
 ]]></content>
     </entry>
     <entry>
@@ -47,6 +60,7 @@
     - 三分练，七分吃
     - 吃饭不用吃得饱，吃得差不多就收筷子
     - 家里办公室常备干粮，饿了就吃，千万别饿着自己（防止暴饮暴食）
+    - 练就走走路就行了
 - 奖励
     - 小米蓝牙耳机来一副，大概150
 </code></pre>
@@ -116,8 +130,8 @@
 </ul>
 <h1 id="清单">清单</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4457108"><label class="task-list-item-label" for="task-item-4457108"> 《人生七年》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-34542"><label class="task-list-item-label" for="task-item-34542"> 《但是还有书籍》</label>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9161513"><label class="task-list-item-label" for="task-item-9161513"> 《人生七年》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7717030"><label class="task-list-item-label" for="task-item-7717030"> 《但是还有书籍》</label>
 <ul>
 <li>https://b23.tv/ep299985</li>
 </ul>
@@ -186,7 +200,7 @@
         <updated>2020-05-27T16:18:59.000Z</updated>
         <content type="html"><![CDATA[<h2 id="个人">个人</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3791863"><label class="task-list-item-label" for="task-item-3791863"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3022733"><label class="task-list-item-label" for="task-item-3022733"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
 
 如果你不出去走走，你就会以为这就是全世界。
 
@@ -199,12 +213,12 @@
 </ul>
 <h2 id="世界还挺大的">世界还挺大的</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6509949"><label class="task-list-item-label" for="task-item-6509949"> 《美丽心灵》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-728480"><label class="task-list-item-label" for="task-item-728480"> 《赛德克·巴莱》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2494134"><label class="task-list-item-label" for="task-item-2494134"> 《美丽心灵》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9697023"><label class="task-list-item-label" for="task-item-9697023"> 《赛德克·巴莱》</label></li>
 </ul>
 <h2 id="原生家庭">原生家庭</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4222422"><label class="task-list-item-label" for="task-item-4222422"> 《被嫌弃的松子的一生》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6693546"><label class="task-list-item-label" for="task-item-6693546"> 《被嫌弃的松子的一生》</label></li>
 </ul>
 ]]></content>
     </entry>
@@ -220,16 +234,6 @@
 <li>倒数5秒，然后去做</li>
 <li></li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gradle 入门]]></title>
-        <id>https://cgengwei.github.io/post/gradle-ru-men/</id>
-        <link href="https://cgengwei.github.io/post/gradle-ru-men/">
-        </link>
-        <updated>2020-05-27T16:16:01.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="gradle是个啥">gradle是个啥</h2>
-<h2 id="gradle有啥门槛">gradle有啥门槛</h2>
 ]]></content>
     </entry>
 </feed>
