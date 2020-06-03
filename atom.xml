@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-06-02T00:05:23.876Z</updated>
+    <updated>2020-06-03T00:16:36.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -18,10 +18,41 @@
         <updated>2020-06-02T00:03:53.000Z</updated>
         <content type="html"><![CDATA[<h1 id="第一周计划">第一周计划</h1>
 <pre><code>- 减肥
+    - 目标：减1斤，低于183.6斤
+    - 目标分解：
+        - 无
+    - 原则：
+        - 允许两天的缓冲期
+        - 每天去公园走一个小时
+        - 注意吃要吃得少
 - 拉勾视频
+    - 目标：学完阶段一模块二
+    - 目标分解：
+        - 任务二-springioc高级应用于源码解析
+            - 课程时长：20+15+12+14+12+30+13+5+26 = 147
+            - 练习时长：2 * 60min
+        - 任务三-springaop高级应用与源码剖析
+            - 课程时长：13+33+12+22+19+6+14+16 =135
+            - 练习时长：2 * 60min
+        - 作业
+            - 2*60
+    - 做法：
+        - 每天早上或者晚上花两个小时学习
+    - 原则：
+        - 允许有两天的调整期，其他时间每天需要达到两个小时（4个番茄时钟）
+        - 完成比完美更重要
+        - 可以视情况，缩短练习时长
 - 唱歌视频
+    - 目标：学完前7集
+    - 目标分解：
+        - 每天1集
+    - 
 - 博客输出
-- </code></pre>
+- 副业
+    - 目标：理清大概思路：学习php还是找个java论坛
+    - 目标分解：
+    - 做法：
+        - 每天花一个小时做这个</code></pre>
 ]]></content>
     </entry>
     <entry>
@@ -40,6 +71,11 @@
     - 做了6月份的目标
     - 个人所得税
     - 看了唱歌视频的第二集，但是需要2号重新记录一下
+</code></pre>
+<h1 id="2日">2日</h1>
+<pre><code>- 减肥
+- 拉勾课程
+- 其他
     - </code></pre>
 ]]></content>
     </entry>
@@ -130,8 +166,8 @@
 </ul>
 <h1 id="清单">清单</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9161513"><label class="task-list-item-label" for="task-item-9161513"> 《人生七年》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7717030"><label class="task-list-item-label" for="task-item-7717030"> 《但是还有书籍》</label>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4240997"><label class="task-list-item-label" for="task-item-4240997"> 《人生七年》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9750709"><label class="task-list-item-label" for="task-item-9750709"> 《但是还有书籍》</label>
 <ul>
 <li>https://b23.tv/ep299985</li>
 </ul>
@@ -200,7 +236,7 @@
         <updated>2020-05-27T16:18:59.000Z</updated>
         <content type="html"><![CDATA[<h2 id="个人">个人</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3022733"><label class="task-list-item-label" for="task-item-3022733"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4295830"><label class="task-list-item-label" for="task-item-4295830"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
 
 如果你不出去走走，你就会以为这就是全世界。
 
@@ -213,12 +249,12 @@
 </ul>
 <h2 id="世界还挺大的">世界还挺大的</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2494134"><label class="task-list-item-label" for="task-item-2494134"> 《美丽心灵》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9697023"><label class="task-list-item-label" for="task-item-9697023"> 《赛德克·巴莱》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6520091"><label class="task-list-item-label" for="task-item-6520091"> 《美丽心灵》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4509853"><label class="task-list-item-label" for="task-item-4509853"> 《赛德克·巴莱》</label></li>
 </ul>
 <h2 id="原生家庭">原生家庭</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6693546"><label class="task-list-item-label" for="task-item-6693546"> 《被嫌弃的松子的一生》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2873628"><label class="task-list-item-label" for="task-item-2873628"> 《被嫌弃的松子的一生》</label></li>
 </ul>
 ]]></content>
     </entry>
