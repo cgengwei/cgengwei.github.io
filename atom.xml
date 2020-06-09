@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-06-03T00:16:36.456Z</updated>
+    <updated>2020-06-09T11:32:23.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[0609想法]]></title>
+        <id>https://cgengwei.github.io/post/0609-xiang-fa/</id>
+        <link href="https://cgengwei.github.io/post/0609-xiang-fa/">
+        </link>
+        <updated>2020-06-09T09:58:06.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="现在处于什么阶段">现在处于什么阶段？</h1>
+<ul>
+<li>处于自己想好好走自己的路的阶段</li>
+</ul>
+<h1 id="可预见的困难">可预见的困难？</h1>
+<ul>
+<li>刚开始肯定是无法很好地安排好自己的时间，每天的工作</li>
+<li>容易出现回到自己的那种堕落的状态</li>
+<li>做的计划可能会不合理</li>
+<li>可能到了时间点，没有动力做</li>
+</ul>
+<h1 id="心理准备">心理准备</h1>
+<ul>
+<li>如果我成功养成做计划，做反思，回顾的习惯，将终生受益</li>
+<li>所以我愿意花半年来培养这些习惯</li>
+<li>如果失败了，去找原因，改正，继续做</li>
+<li>如果又失败了，再找原因，继续刚</li>
+<li>。。。</li>
+<li>直到我能成功地做计划，反思回顾。</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-06计划]]></title>
         <id>https://cgengwei.github.io/post/2020-06-ji-hua/</id>
@@ -166,8 +194,8 @@
 </ul>
 <h1 id="清单">清单</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4240997"><label class="task-list-item-label" for="task-item-4240997"> 《人生七年》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9750709"><label class="task-list-item-label" for="task-item-9750709"> 《但是还有书籍》</label>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7874633"><label class="task-list-item-label" for="task-item-7874633"> 《人生七年》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4478380"><label class="task-list-item-label" for="task-item-4478380"> 《但是还有书籍》</label>
 <ul>
 <li>https://b23.tv/ep299985</li>
 </ul>
@@ -236,7 +264,7 @@
         <updated>2020-05-27T16:18:59.000Z</updated>
         <content type="html"><![CDATA[<h2 id="个人">个人</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4295830"><label class="task-list-item-label" for="task-item-4295830"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5682315"><label class="task-list-item-label" for="task-item-5682315"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
 
 如果你不出去走走，你就会以为这就是全世界。
 
@@ -249,26 +277,12 @@
 </ul>
 <h2 id="世界还挺大的">世界还挺大的</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6520091"><label class="task-list-item-label" for="task-item-6520091"> 《美丽心灵》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4509853"><label class="task-list-item-label" for="task-item-4509853"> 《赛德克·巴莱》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6197279"><label class="task-list-item-label" for="task-item-6197279"> 《美丽心灵》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2012818"><label class="task-list-item-label" for="task-item-2012818"> 《赛德克·巴莱》</label></li>
 </ul>
 <h2 id="原生家庭">原生家庭</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2873628"><label class="task-list-item-label" for="task-item-2873628"> 《被嫌弃的松子的一生》</label></li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[感想]]></title>
-        <id>https://cgengwei.github.io/post/gan-xiang/</id>
-        <link href="https://cgengwei.github.io/post/gan-xiang/">
-        </link>
-        <updated>2020-05-27T16:17:25.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="拖延相关">拖延相关</h2>
-<ul>
-<li>完成比完美更重要</li>
-<li>倒数5秒，然后去做</li>
-<li></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-84797"><label class="task-list-item-label" for="task-item-84797"> 《被嫌弃的松子的一生》</label></li>
 </ul>
 ]]></content>
     </entry>
