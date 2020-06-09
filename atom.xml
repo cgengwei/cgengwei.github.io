@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-06-09T12:01:15.820Z</updated>
+    <updated>2020-06-09T12:08:20.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -41,11 +41,15 @@
 <li>我每天必须有那么一段时间，让自己思考，不受其他外在因素的影响
 <ul>
 <li>我需要认真思考我自己存在的问题，去解决，去找解决方案</li>
+<li>我可以试试，每天晚上花一个小时来记录，来思考，</li>
 </ul>
 </li>
+<li>现在手机上的推送，看到的，读到的，见到的，都是大数据根据我想的推荐给我的，这可能会使我眼界越来越狭隘，我需要去阅读，去体验人生，而少碰手机</li>
 <li>需要进行记录，让自己看到自己的成长
 <ul>
 <li>当我受挫，当我失落的时候，看看自己的成长能让我自己明白自己也不是那么失败</li>
+<li>我需要对着自己的愿景，每天看自己的计划已经走到哪一步了，是不是又前进了呢，让自己每天都有动力去完成他，去让自己更好</li>
+<li>我需要通过这些一点点增加自己的成就感</li>
 </ul>
 </li>
 <li>计划的时候，需要给计划容错的空间
@@ -223,8 +227,8 @@
 </ul>
 <h1 id="清单">清单</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7401224"><label class="task-list-item-label" for="task-item-7401224"> 《人生七年》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7497199"><label class="task-list-item-label" for="task-item-7497199"> 《但是还有书籍》</label>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9861805"><label class="task-list-item-label" for="task-item-9861805"> 《人生七年》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9981833"><label class="task-list-item-label" for="task-item-9981833"> 《但是还有书籍》</label>
 <ul>
 <li>https://b23.tv/ep299985</li>
 </ul>
@@ -293,7 +297,7 @@
         <updated>2020-05-27T16:18:59.000Z</updated>
         <content type="html"><![CDATA[<h2 id="个人">个人</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-760214"><label class="task-list-item-label" for="task-item-760214"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8149504"><label class="task-list-item-label" for="task-item-8149504"> 《天堂电影院》</label><pre><code>人生和电影不同，人生辛苦多了。
 
 如果你不出去走走，你就会以为这就是全世界。
 
@@ -306,12 +310,12 @@
 </ul>
 <h2 id="世界还挺大的">世界还挺大的</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8268209"><label class="task-list-item-label" for="task-item-8268209"> 《美丽心灵》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2175545"><label class="task-list-item-label" for="task-item-2175545"> 《赛德克·巴莱》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4880726"><label class="task-list-item-label" for="task-item-4880726"> 《美丽心灵》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7260875"><label class="task-list-item-label" for="task-item-7260875"> 《赛德克·巴莱》</label></li>
 </ul>
 <h2 id="原生家庭">原生家庭</h2>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7318700"><label class="task-list-item-label" for="task-item-7318700"> 《被嫌弃的松子的一生》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4624719"><label class="task-list-item-label" for="task-item-4624719"> 《被嫌弃的松子的一生》</label></li>
 </ul>
 ]]></content>
     </entry>
