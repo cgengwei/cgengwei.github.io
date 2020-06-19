@@ -2,29 +2,18 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>groovy 入门 | cgengwei</title>
+<title>《轻断食》 | cgengwei</title>
 <link rel="shortcut icon" href="https://cgengwei.github.io/favicon.ico?v=1592590512911">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cgengwei.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="groovy 入门 | cgengwei - Atom Feed" href="https://cgengwei.github.io/atom.xml">
+<link rel="alternate" type="application/atom+xml" title="《轻断食》 | cgengwei - Atom Feed" href="https://cgengwei.github.io/atom.xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 
-    <meta name="description" content="为什么学groovy
-
-其实就是因为gradle要用
-哎，就是这么功利，如果gradle不用就不管他了
-
-groovy印象
-
-就是一个运行在jvm的脚本语言
-语法跟java差别还是有的，总而言之，简便很多。
-
-参考文档
-
-极客时间groov..." />
-    <meta name="keywords" content="groovy" />
+    <meta name="description" content="本书的
+" />
+    <meta name="keywords" content="" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
     <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
   </head>
@@ -86,93 +75,26 @@ groovy印象
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              groovy 入门
+              《轻断食》
             </h2>
             <div class="post-info">
               <span>
-                2020-05-27
+                2020-06-20
               </span>
               <span>
-                2 min read
+                1 min read
               </span>
-              
-                <a href="https://cgengwei.github.io/tag/n1Cfnesd9/" class="post-tag">
-                  # groovy
-                </a>
               
             </div>
             
-              <img class="post-feature-image" src="https://raw.githubusercontent.com/cgengwei/images/master/img/20200527230610.png" alt="">
-            
             <div class="post-content-wrapper">
               <div class="post-content">
-                <h1 id="为什么学groovy">为什么学groovy</h1>
-<ul>
-<li>其实就是因为gradle要用</li>
-<li>哎，就是这么功利，如果gradle不用就不管他了</li>
-</ul>
-<h1 id="groovy印象">groovy印象</h1>
-<ul>
-<li>就是一个运行在jvm的脚本语言</li>
-<li>语法跟java差别还是有的，总而言之，简便很多。</li>
-</ul>
-<h1 id="参考文档">参考文档</h1>
-<ul>
-<li><a href="https://wiki.jikexueyuan.com/project/groovy-introduction/style-guide.html">极客时间groovy语法入门</a>
-<ul>
-<li>很简短，很简洁</li>
-<li>很适合一上来就看</li>
-<li>当然，你还需要找一个教程去搭建个环境试试</li>
-</ul>
-</li>
-<li><a href="https://www.jianshu.com/p/5d30f1443aa6">Groovy从入门到精通</a>
-<ul>
-<li>这篇文章讲得是真的非常细，看完基本就真的是精通了</li>
-<li>不过不建议一上来就看这篇文档，先大概了解groovy的大概内容</li>
-</ul>
-</li>
-</ul>
-<h1 id="自己觉得需要注意的点">自己觉得需要注意的点</h1>
-<ul>
-<li>每个句子不需要“；”默认换行就是分隔</li>
-<li>一个groovy文件，默认是会引入很多包的</li>
-<li>对于groovy的list，map声明 &amp;&amp; 文件的操作 还是需要了解一下，可能会经常用到</li>
-<li>对于一个groovy文件，可以声明多个公共类，声明的类默认都是公共类，哈哈哈</li>
-<li>对于没有类包起来的代码，那么他就会被立马执行（跟js挺相似的）</li>
-<li>这里的方法相当于一个对象（叫做闭包Closure）</li>
-<li>一个方法（闭包）没有return语句，默认返回最后一句的执行结果</li>
-</ul>
-<p>来个实例文件 test.groovy</p>
-<pre><code>class Book {
-    String title
-}
-class Good{
-    String name
-    Closure closure = {
-        println 'i am closure'
-    }
-}
-
-Book.metaClass.author = &quot;Stephen King&quot;
-def b = new Book()
-
-def goodDemo = new Good()
-goodDemo.name = 'asdfkjasf'
-goodDemo.closure()
-
-assert &quot;Stephen King&quot; == b.author
-println goodDemo.name
-println 'asdkfjakdfj'
-
-</code></pre>
+                <h1 id="本书的">本书的</h1>
 
               </div>
               <div class="toc-container">
                 <ul class="markdownIt-TOC">
-<li><a href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AD%A6groovy">为什么学groovy</a></li>
-<li><a href="#groovy%E5%8D%B0%E8%B1%A1">groovy印象</a></li>
-<li><a href="#%E5%8F%82%E8%80%83%E6%96%87%E6%A1%A3">参考文档</a></li>
-<li><a href="#%E8%87%AA%E5%B7%B1%E8%A7%89%E5%BE%97%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E7%82%B9">自己觉得需要注意的点</a></li>
+<li><a href="#%E6%9C%AC%E4%B9%A6%E7%9A%84">本书的</a></li>
 </ul>
 
               </div>
@@ -183,9 +105,9 @@ println 'asdkfjakdfj'
         
           <div class="next-post">
             <div class="next">下一篇</div>
-            <a href="https://cgengwei.github.io/post/hello-gridea/">
+            <a href="https://cgengwei.github.io/post/lesslessan-sha-greatergreater/">
               <h3 class="post-title">
-                Hello Gridea
+                《暗杀》
               </h3>
             </a>
           </div>

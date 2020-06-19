@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-06-19T16:58:05.349Z</updated>
+    <updated>2020-06-19T18:15:18.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[《赛德克 巴莱》]]></title>
+        <id>https://cgengwei.github.io/post/lesslesssai-de-ke-ba-lai-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslesssai-de-ke-ba-lai-greatergreater/">
+        </link>
+        <updated>2020-06-19T18:14:35.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="电影">电影</h1>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《轻断食》]]></title>
+        <id>https://cgengwei.github.io/post/lesslessqing-duan-shi-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslessqing-duan-shi-greatergreater/">
+        </link>
+        <updated>2020-06-19T18:13:26.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="本书的">本书的</h1>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《暗杀》]]></title>
+        <id>https://cgengwei.github.io/post/lesslessan-sha-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslessan-sha-greatergreater/">
+        </link>
+        <updated>2020-06-19T17:57:09.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="电影描述">电影描述</h1>
+<p>这是一部韩国抗日电影。描述的是抗日时期，韩国三个顶尖特工执行一个暗杀任务发生的事情。</p>
+<h1 id="电影感悟">电影感悟</h1>
+<ul>
+<li>战争是残酷的</li>
+<li>和平和生命都是极其珍贵的</li>
+<li>和平的道路洒满了前辈的热血，折断了曾经多多少少像我们一样年轻的青年，好好珍惜，谢谢你们</li>
+<li>一个怀揣着希望和梦想的年轻人，可能也会因为看不到希望，因为现实的折磨，放弃自己的底限和梦想，成为自己最讨厌的人。</li>
+<li>现实很艰难，希望很渺茫，但是这些事总要有人来做，总要有人为后面铺垫，希望你能不要放弃，希望你能完成这代人给你的使命</li>
+<li>当然，如果你努力了，争取了，放弃了，没事，谢谢你</li>
+<li>但是希望你永远不要走上错误的路</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《入殓师》]]></title>
         <id>https://cgengwei.github.io/post/lesslessru-lian-shi-greatergreater/</id>
@@ -305,8 +343,8 @@
 </ul>
 <h1 id="清单">清单</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1453675"><label class="task-list-item-label" for="task-item-1453675"> 《人生七年》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6688938"><label class="task-list-item-label" for="task-item-6688938"> 《但是还有书籍》</label>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9543297"><label class="task-list-item-label" for="task-item-9543297"> 《人生七年》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6685547"><label class="task-list-item-label" for="task-item-6685547"> 《但是还有书籍》</label>
 <ul>
 <li>https://b23.tv/ep299985</li>
 </ul>
@@ -323,48 +361,6 @@
         <content type="html"><![CDATA[<h2 id="有什么用">有什么用</h2>
 <h2 id="思维导图">思维导图</h2>
 <h2 id="结合自己的实践">结合自己的实践</h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《被嫌弃的松子的一生》]]></title>
-        <id>https://cgengwei.github.io/post/lesslessbei-xian-qi-de-song-zi-de-yi-sheng-greatergreater/</id>
-        <link href="https://cgengwei.github.io/post/lesslessbei-xian-qi-de-song-zi-de-yi-sheng-greatergreater/">
-        </link>
-        <updated>2020-05-27T17:30:45.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>扎心了！
-
-花了一生治愈童年，却也没能治愈。
-
-感觉挺像自己小时候的心理——对不起，给家庭造成负担了
-
-我能治愈自己吗？我能过好我的一生吗？
-哈哈哈！！！
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《美丽心灵》 ]]></title>
-        <id>https://cgengwei.github.io/post/lesslessmei-li-xin-ling-greatergreater/</id>
-        <link href="https://cgengwei.github.io/post/lesslessmei-li-xin-ling-greatergreater/">
-        </link>
-        <updated>2020-05-27T17:24:18.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>我的感想<pre><code>原来还真的存在有的人的一生，都在解题，都在追求学术，这是我小时候的想法呀
-
-原来真存在精神分裂，真挺难受的，幸好你走过来了
-</code></pre>
-</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《天堂电影院》]]></title>
-        <id>https://cgengwei.github.io/post/lesslesstian-tang-dian-ying-yuan-greatergreater/</id>
-        <link href="https://cgengwei.github.io/post/lesslesstian-tang-dian-ying-yuan-greatergreater/">
-        </link>
-        <updated>2020-05-27T17:13:24.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>世界还蛮大的，出去走走
-</code></pre>
 ]]></content>
     </entry>
 </feed>
