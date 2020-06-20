@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-06-20T06:16:28.271Z</updated>
+    <updated>2020-06-20T06:53:57.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,59 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[唱歌学习路径]]></title>
+        <id>https://cgengwei.github.io/post/xue-xi-chang-ge-de-jian-dan-lu-jing/</id>
+        <link href="https://cgengwei.github.io/post/xue-xi-chang-ge-de-jian-dan-lu-jing/">
+        </link>
+        <updated>2020-06-20T06:30:16.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="需要">需要</h1>
+<ul>
+<li>坚持</li>
+<li>尝试</li>
+<li>练习</li>
+</ul>
+<h1 id="唱好歌">唱好歌</h1>
+<ul>
+<li>气息
+<ul>
+<li>了解胸腹联合呼吸法</li>
+<li>了解呼吸的几种方式</li>
+<li>练习气息--发si</li>
+<li>练习气息--打嘟噜</li>
+</ul>
+</li>
+<li>打开喉咙/产生共鸣
+<ul>
+<li>半打哈欠，喉头往下并固定</li>
+<li>共鸣相关的知识和练习</li>
+</ul>
+</li>
+<li>固定声音位置
+<ul>
+<li>小声哼鸣</li>
+</ul>
+</li>
+<li>情感节奏
+<ul>
+<li>认识简谱</li>
+<li>认识节奏与节拍</li>
+<li>认识音准、音域、音阶</li>
+</ul>
+</li>
+<li>咬字吐字练习</li>
+</ul>
+<h1 id="相关材料">相关材料</h1>
+<ul>
+<li>2018年唱歌系统教程<pre><code>   链接：https://pan.baidu.com/s/1dlsq7vEC7a_OfaqauK5Ppg 
+  提取码：6252 
+  复制这段内容后打开百度网盘手机App，操作更方便哦
+</code></pre>
+</li>
+<li>酷狗唱唱教学的视频</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《霜花店》]]></title>
         <id>https://cgengwei.github.io/post/lesslessshuang-hua-dian-greatergreater/</id>
@@ -357,27 +410,6 @@
     - 再看牙科内科
     - 再补牙
 </code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纪录片清单]]></title>
-        <id>https://cgengwei.github.io/post/ji-lu-pian-lie-biao/</id>
-        <link href="https://cgengwei.github.io/post/ji-lu-pian-lie-biao/">
-        </link>
-        <updated>2020-05-30T00:34:20.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="参考">参考</h1>
-<ul>
-<li>https://www.zhihu.com/question/315958918/answer/772310328</li>
-</ul>
-<h1 id="清单">清单</h1>
-<ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3314270"><label class="task-list-item-label" for="task-item-3314270"> 《人生七年》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3541797"><label class="task-list-item-label" for="task-item-3541797"> 《但是还有书籍》</label>
-<ul>
-<li>https://b23.tv/ep299985</li>
-</ul>
-</li>
-</ul>
 ]]></content>
     </entry>
 </feed>
