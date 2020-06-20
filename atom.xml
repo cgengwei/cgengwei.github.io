@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-06-19T18:16:36.371Z</updated>
+    <updated>2020-06-20T06:15:40.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[《霜花店》]]></title>
+        <id>https://cgengwei.github.io/post/lesslessshuang-hua-dian-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslessshuang-hua-dian-greatergreater/">
+        </link>
+        <updated>2020-06-20T01:22:37.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="电影简述">电影简述</h1>
+<p>电影主要讲述了元朝时期朝鲜皇帝、他的带刀侍卫和王后三个人的故事。</p>
+<p>朝鲜皇帝因为是同性恋，而与自幼一起长大的带刀侍卫缠绵在一起。</p>
+<p>因为皇帝需要子嗣来继承王位，这个事情遭到朝廷各个大臣的热议，皇帝迫于压力让自己的带刀侍卫与王后性交，希望以后生出来的小孩也跟带刀侍卫一样惹人喜欢。</p>
+<p>而后自己的侍卫发现，自己对王后动心了，时长回味与王后缠绵的场景。王后因为这次做爱，也爱上了侍卫。而后他们偷偷交往，而各种蛛丝马迹依然逃不过皇帝的眼睛。</p>
+<p>皇帝开始试探自己的爱人（带刀侍卫），发现他并没有如实交代，慢慢后悔安排了这么一场“交易”。侍卫也慢慢发现自己并不是“弯”的，发现自己并不是真正喜欢皇帝。皇帝也慢慢感受到了自己已经逐渐失去爱人。</p>
+<p>宫里暗地里掀起的造反活动中，皇帝要求侍卫杀光造反的人，而侍卫则因为不想王后伤心，放走了王后的哥哥皇舅并隐瞒了皇帝。</p>
+<p>一个夜里皇帝再次发现王后和侍卫在书房做爱，当着王后的面对侍卫执行宫刑。而后皇帝希望通过这样阻止侍卫和王后的交往，并且好言相劝希望能够挽回侍卫的心。</p>
+<p>而此时王后担心皇帝对侍卫再次伤害，命人放走了侍卫，而这一切触怒了皇帝。</p>
+<p>皇帝利用杀害王后的假消息以及假王后的人头吸引回侍卫回到宫里，希望能够再次挽回侍卫。而侍卫此时一心想要报复，在一次宴席中，侍卫偷偷潜入宫中，并与皇帝反目，两人打斗十分激烈，双双阵亡。</p>
+<h1 id="电影感悟">电影感悟</h1>
+<ul>
+<li>原来同性恋也同样是恋爱呀，两个男人或者两个女人深爱着彼此呀</li>
+<li>恋爱中，爱的越深人越会一直想着给机会挽回对方，卑微地爱着，也会因为对方的背叛失去理智地报复（而后大概会后悔不矣）</li>
+<li>恋爱中，不爱了的人，如果不及时表明自己的想法，可能越拖越受伤</li>
+<li>恋爱中，不爱了的人，往往会时常想着别人吧，而又害怕伤害爱自己的人</li>
+<li>恋爱中，不爱了就是不爱了，别迁就，放过自己放过对方。</li>
+<li>男人女人都可能会因为性而爱上某个人吧。</li>
+<li>恋爱中，如果对方不爱了，那么放对方走吧，不要想着再给他机会，伤害自己伤害对方。</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《赛德克 巴莱》]]></title>
         <id>https://cgengwei.github.io/post/lesslesssai-de-ke-ba-lai-greatergreater/</id>
@@ -343,24 +371,13 @@
 </ul>
 <h1 id="清单">清单</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5263584"><label class="task-list-item-label" for="task-item-5263584"> 《人生七年》</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8479075"><label class="task-list-item-label" for="task-item-8479075"> 《但是还有书籍》</label>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6644264"><label class="task-list-item-label" for="task-item-6644264"> 《人生七年》</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9279538"><label class="task-list-item-label" for="task-item-9279538"> 《但是还有书籍》</label>
 <ul>
 <li>https://b23.tv/ep299985</li>
 </ul>
 </li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《高效能人士的七个习惯》]]></title>
-        <id>https://cgengwei.github.io/post/lesslessgao-xiao-neng-ren-shi-de-qi-ge-xi-guan-greatergreater/</id>
-        <link href="https://cgengwei.github.io/post/lesslessgao-xiao-neng-ren-shi-de-qi-ge-xi-guan-greatergreater/">
-        </link>
-        <updated>2020-05-28T00:03:34.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="有什么用">有什么用</h2>
-<h2 id="思维导图">思维导图</h2>
-<h2 id="结合自己的实践">结合自己的实践</h2>
 ]]></content>
     </entry>
 </feed>
