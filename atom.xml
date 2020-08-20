@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-06-22T14:13:51.599Z</updated>
+    <updated>2020-08-20T05:09:07.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[《富爸爸穷爸爸》]]></title>
+        <id>https://cgengwei.github.io/post/lesslessfu-ba-ba-qiong-ba-ba-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslessfu-ba-ba-qiong-ba-ba-greatergreater/">
+        </link>
+        <updated>2020-07-03T15:55:46.000Z</updated>
+        <content type="html"><![CDATA[<p>阿萨德放假</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[唱歌学习路径]]></title>
         <id>https://cgengwei.github.io/post/xue-xi-chang-ge-de-jian-dan-lu-jing/</id>
@@ -343,81 +352,6 @@
     - 做了6月份的目标
     - 个人所得税
     - 看了唱歌视频的第二集，但是需要2号重新记录一下
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020年6月目标]]></title>
-        <id>https://cgengwei.github.io/post/2020-nian-6-yue/</id>
-        <link href="https://cgengwei.github.io/post/2020-nian-6-yue/">
-        </link>
-        <updated>2020-06-01T16:17:04.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="减肥5斤">减肥5斤</h1>
-<pre><code>- 愿景
-    - 哈哈，瘦到毕业的模样
-    - 可以去置办好看的衣服，学习穿搭
-    - 瘦到称重的时候不要出现180以上了
-- 任务分解
-    - 大概6天瘦一斤
-- 原则
-    - 三分练，七分吃
-    - 吃饭不用吃得饱，吃得差不多就收筷子
-    - 家里办公室常备干粮，饿了就吃，千万别饿着自己（防止暴饮暴食）
-    - 练就走走路就行了
-- 奖励
-    - 小米蓝牙耳机来一副，大概150
-</code></pre>
-<h1 id="拉勾课程4个模块">拉勾课程4个模块</h1>
-<pre><code>- 愿景
-    - 成为人们口中的大佬，接受众人的膜拜吧
-    - 可以不想干了，随随便便就换工作，工作任挑
-    - 吹牛也可以吹得牛皮都爆了
-    - 阶段一模块二，模块三，模块四；阶段二模块一都看完，屌得不行
-- 任务分解
-    - 每个模块一个星期
-    - 额外多了两天可以拿出来整理一下
-- 原则
-    - 完成比完美更重要
-    - 每个模块至少输出一篇文章
-- 奖励
-    - 奖励自己1000元，用于后面买电子产品（电脑或者手机）
-</code></pre>
-<h1 id="副业">副业</h1>
-<pre><code>- 愿景
-    - 有一天不想工作了，那么就辞职了
-    - 每个月能多那么几百块上千块来花花就很棒
-    - 搞明白这个论坛项目改怎么落地
-- 任务分解
-    - 先搞个开源的java论坛
-        - 先找一下开源的java论坛
-        - 运行起来
-    - 学习seo运营
-    - 确定论坛主题
-        - 主题条件
-            - 百度内容较少
-            - 开始有公众号做相关的内容
-- 原则
-    - 慢慢来
-</code></pre>
-<h1 id="唱歌">唱歌</h1>
-<pre><code>- 愿景
-    - 随时随地唱我喜欢的歌曲
-    - 给我最爱的人唱歌听
-- 任务分解
-    - 先把唱歌讲解视频看下来
-    - 记录学唱歌的方法步骤
-- 原则
-    - 先不用管怎么练，把学习的路径和步骤记下来，后面再安排练习
-- 奖励
-    - 每天多听两首歌
-</code></pre>
-<h1 id="洗牙补牙">洗牙补牙</h1>
-<pre><code>- 愿景
-    - 一口健康的牙齿
-- 任务分解
-    - 先洗牙
-    - 再看牙科内科
-    - 再补牙
 </code></pre>
 ]]></content>
     </entry>
