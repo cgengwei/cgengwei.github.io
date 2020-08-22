@@ -14,6 +14,7 @@
 <script src="https://cgengwei.github.io/media/js/view-image.min.js"></script>
 <script src="https://cgengwei.github.io/media/js/jquery.magnific-popup.min.js"></script>
 <script src="https://cgengwei.github.io/media/js/functions.js"></script>
+ <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
     <meta name="referrer" content="never">
     <meta name="description" content="链接地址
 https://gitee.com/cgengwei/pdf-book/blob/master/%E5%81%A5%E5%BA%B7/%E8%BD%BB%E6%96%AD%E9%A3%9F_%E6%AD%A3%E5%9C%A8%E..." />
@@ -179,6 +180,15 @@ https://gitee.com/cgengwei/pdf-book/blob/master/%E5%81%A5%E5%BA%B7/%E8%BD%BB%E6%
             
               <div id="comments" class="bg-white hosted ">
                 <p>请到客户端“主题--自定义配置--valine”中填入ID和KEY</p>
+
+                <div id="vcomments"></div>
+                  <script>
+                      new Valine({
+                          el: '#vcomments',
+                          appId: 'hWHRhuNfD0ud6dEvHKJe0LvA-gzGzoHsz',
+                          appKey: 'Ws36WpzuHa8KB0Po49THQ581'
+                      })
+                  </script>
               </div>
               <div class="clear"></div>
             
