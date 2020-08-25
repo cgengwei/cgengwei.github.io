@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-08-25T15:33:28.623Z</updated>
+    <updated>2020-08-25T15:42:28.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[原则]]></title>
+        <id>https://cgengwei.github.io/post/yuan-ze/</id>
+        <link href="https://cgengwei.github.io/post/yuan-ze/">
+        </link>
+        <updated>2020-08-25T15:35:39.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cgengwei.github.io/post-images/1598370077775.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20200825]]></title>
         <id>https://cgengwei.github.io/post/20200825/</id>
@@ -54,20 +63,20 @@
         <updated>2020-08-21T15:55:14.000Z</updated>
         <content type="html"><![CDATA[<h1 id="成功日记">成功日记</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-669109"><label class="task-list-item-label" for="task-item-669109"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8296711"><label class="task-list-item-label" for="task-item-8296711"> 预约牙医、看皮肤科</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8506038"><label class="task-list-item-label" for="task-item-8506038"> 买顶帽子</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6137351"><label class="task-list-item-label" for="task-item-6137351"> 英语单词50个</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7741383"><label class="task-list-item-label" for="task-item-7741383"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-995978"><label class="task-list-item-label" for="task-item-995978"> 我吃了减肥中餐</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1883393"><label class="task-list-item-label" for="task-item-1883393"> 晚上写日记</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2477679"><label class="task-list-item-label" for="task-item-2477679"> 晚上记账</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2707181"><label class="task-list-item-label" for="task-item-2707181"> 晚上洗澡</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2735743"><label class="task-list-item-label" for="task-item-2735743"> 晚上补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4203602"><label class="task-list-item-label" for="task-item-4203602"> 晚上刷牙</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9650888"><label class="task-list-item-label" for="task-item-9650888"> 早起补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9990432"><label class="task-list-item-label" for="task-item-9990432"> 早起记录体重</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5156653"><label class="task-list-item-label" for="task-item-5156653"> 早起剃胡子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9321516"><label class="task-list-item-label" for="task-item-9321516"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3716300"><label class="task-list-item-label" for="task-item-3716300"> 预约牙医、看皮肤科</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5907799"><label class="task-list-item-label" for="task-item-5907799"> 买顶帽子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-450126"><label class="task-list-item-label" for="task-item-450126"> 英语单词50个</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2781971"><label class="task-list-item-label" for="task-item-2781971"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9065098"><label class="task-list-item-label" for="task-item-9065098"> 我吃了减肥中餐</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6616169"><label class="task-list-item-label" for="task-item-6616169"> 晚上写日记</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-715134"><label class="task-list-item-label" for="task-item-715134"> 晚上记账</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7558081"><label class="task-list-item-label" for="task-item-7558081"> 晚上洗澡</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2881731"><label class="task-list-item-label" for="task-item-2881731"> 晚上补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4129395"><label class="task-list-item-label" for="task-item-4129395"> 晚上刷牙</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5570379"><label class="task-list-item-label" for="task-item-5570379"> 早起补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5314702"><label class="task-list-item-label" for="task-item-5314702"> 早起记录体重</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1493641"><label class="task-list-item-label" for="task-item-1493641"> 早起剃胡子</label></li>
 </ul>
 <h1 id="自我感觉">自我感觉</h1>
 <ul>
@@ -293,68 +302,6 @@
 <p>有些事，吵架并不能解决问题，好好沟通也许也不行，这可能是因为遭遇不同，经历不同。那么尝试去参与一下（黄赌毒犯罪就算了吧），可能就能理解了。</p>
 <p>认认真真对待生活和工作，总不会错的。</p>
 <p>能娶个女主这样的老婆，我三生有幸。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20200609想法]]></title>
-        <id>https://cgengwei.github.io/post/20200609-xiang-fa/</id>
-        <link href="https://cgengwei.github.io/post/20200609-xiang-fa/">
-        </link>
-        <updated>2020-06-09T09:58:06.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="现在处于什么阶段">现在处于什么阶段？</h1>
-<ul>
-<li>处于自己想好好走自己的路的阶段</li>
-</ul>
-<h1 id="可预见的困难">可预见的困难？</h1>
-<ul>
-<li>刚开始肯定是无法很好地安排好自己的时间，每天的工作</li>
-<li>容易出现回到自己的那种堕落的状态</li>
-<li>做的计划可能会不合理</li>
-<li>可能到了时间点，没有动力做</li>
-</ul>
-<h1 id="心理准备">心理准备</h1>
-<ul>
-<li>如果我成功养成做计划，做反思，回顾的习惯，将终生受益</li>
-<li>所以我愿意花半年来培养这些习惯</li>
-<li>如果失败了，去找原因，改正，继续做</li>
-<li>如果又失败了，再找原因，继续刚</li>
-<li>。。。</li>
-<li>直到我能成功地做计划，反思回顾。</li>
-</ul>
-<h1 id="反思">反思</h1>
-<ul>
-<li>我每天必须有那么一段时间，让自己思考，不受其他外在因素的影响
-<ul>
-<li>我需要认真思考我自己存在的问题，去解决，去找解决方案</li>
-<li>我可以试试，每天晚上花一个小时来记录，来思考，</li>
-</ul>
-</li>
-<li>现在手机上的推送，看到的，读到的，见到的，都是大数据根据我想的推荐给我的，这可能会使我眼界越来越狭隘，我需要去阅读，去体验人生，而少碰手机</li>
-<li>需要进行记录，让自己看到自己的成长
-<ul>
-<li>当我受挫，当我失落的时候，看看自己的成长能让我自己明白自己也不是那么失败</li>
-<li>我需要对着自己的愿景，每天看自己的计划已经走到哪一步了，是不是又前进了呢，让自己每天都有动力去完成他，去让自己更好</li>
-<li>我需要通过这些一点点增加自己的成就感</li>
-</ul>
-</li>
-<li>计划的时候，需要给计划容错的空间
-<ul>
-<li>当自己没有顺利地完成任务，不会让自己就想放弃这一整份计划</li>
-<li>如果基于这个心理，感觉计划应该时间越短越好</li>
-<li>但事实上，我需要长期的计划和短期的计划，我也无法花过多的时间在计划上</li>
-</ul>
-</li>
-<li>我每天必须</li>
-</ul>
-<h1 id="回顾一下6月份第一个星期">回顾一下6月份第一个星期</h1>
-<h2 id="进步">进步</h2>
-<pre><code>- 第一个星期做得比较好的就是做了一份比较合理的计划
-- 第一天也是比较顺利地完成了任务
-- 第二天虽然做得不好，但是我突然发现有这么一两天的容错，真的心理层面非常不一样，不会想着自暴自弃，完全不管不顾
-</code></pre>
-<h2 id="不足">不足</h2>
-<pre><code>- 这个星期接下来的日子都没有好好记录，没有好好执行
-- 也没有反思</code></pre>
 ]]></content>
     </entry>
 </feed>
