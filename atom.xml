@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-08-26T17:50:32.202Z</updated>
+    <updated>2020-08-26T18:07:32.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -16,9 +16,7 @@
         <link href="https://cgengwei.github.io/post/20200826/">
         </link>
         <updated>2020-08-26T16:22:58.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="成功日记">成功日记</h1>
-<hr>
-<p><strong>不足</strong></p>
+        <content type="html"><![CDATA[<h1 id="不足做得不好的地方">不足/做得不好的地方</h1>
 <ul>
 <li>晚上、昨天晚上还是吃夜宵了<pre><code>过程是：
 1. 从下班回来的时候就想着吃夜宵
@@ -32,11 +30,12 @@
 </code></pre>
 </li>
 </ul>
+<h1 id="成功日记">成功日记</h1>
 <hr>
 <p><strong>生活/计划</strong></p>
 <ul>
 <li>今天开始搞spring的作业</li>
-<li></li>
+<li>想要在上班学学极客时间的东西，计划每天写个4个小时的代码，然后花两个小时左右进行自学。</li>
 </ul>
 <hr>
 <p><strong>习惯</strong></p>
@@ -105,20 +104,20 @@
         <updated>2020-08-21T15:55:14.000Z</updated>
         <content type="html"><![CDATA[<h1 id="成功日记">成功日记</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9889251"><label class="task-list-item-label" for="task-item-9889251"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3210081"><label class="task-list-item-label" for="task-item-3210081"> 预约牙医、看皮肤科</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1845392"><label class="task-list-item-label" for="task-item-1845392"> 买顶帽子</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2129272"><label class="task-list-item-label" for="task-item-2129272"> 英语单词50个</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3162544"><label class="task-list-item-label" for="task-item-3162544"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1413610"><label class="task-list-item-label" for="task-item-1413610"> 我吃了减肥中餐</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7289894"><label class="task-list-item-label" for="task-item-7289894"> 晚上写日记</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9527972"><label class="task-list-item-label" for="task-item-9527972"> 晚上记账</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1066967"><label class="task-list-item-label" for="task-item-1066967"> 晚上洗澡</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1053906"><label class="task-list-item-label" for="task-item-1053906"> 晚上补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8847836"><label class="task-list-item-label" for="task-item-8847836"> 晚上刷牙</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6011720"><label class="task-list-item-label" for="task-item-6011720"> 早起补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9524226"><label class="task-list-item-label" for="task-item-9524226"> 早起记录体重</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3885567"><label class="task-list-item-label" for="task-item-3885567"> 早起剃胡子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4476471"><label class="task-list-item-label" for="task-item-4476471"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-336818"><label class="task-list-item-label" for="task-item-336818"> 预约牙医、看皮肤科</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7262330"><label class="task-list-item-label" for="task-item-7262330"> 买顶帽子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5530317"><label class="task-list-item-label" for="task-item-5530317"> 英语单词50个</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6672770"><label class="task-list-item-label" for="task-item-6672770"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6581472"><label class="task-list-item-label" for="task-item-6581472"> 我吃了减肥中餐</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4777818"><label class="task-list-item-label" for="task-item-4777818"> 晚上写日记</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2966144"><label class="task-list-item-label" for="task-item-2966144"> 晚上记账</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2590227"><label class="task-list-item-label" for="task-item-2590227"> 晚上洗澡</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7811244"><label class="task-list-item-label" for="task-item-7811244"> 晚上补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-518311"><label class="task-list-item-label" for="task-item-518311"> 晚上刷牙</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-55891"><label class="task-list-item-label" for="task-item-55891"> 早起补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2656373"><label class="task-list-item-label" for="task-item-2656373"> 早起记录体重</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9765277"><label class="task-list-item-label" for="task-item-9765277"> 早起剃胡子</label></li>
 </ul>
 <h1 id="自我感觉">自我感觉</h1>
 <ul>
@@ -141,12 +140,35 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日常好习惯]]></title>
+        <title type="html"><![CDATA[美好人生]]></title>
         <id>https://cgengwei.github.io/post/ri-chang-hao-xi-guan/</id>
         <link href="https://cgengwei.github.io/post/ri-chang-hao-xi-guan/">
         </link>
         <updated>2020-08-20T23:54:12.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="生活">生活</h1>
+        <content type="html"><![CDATA[<h1 id="心态篇">心态篇</h1>
+<hr>
+<p><strong>面对失败/挫折</strong></p>
+<ul>
+<li>你要明白这正是你做一件事情意义最大的事情，他能使你进步，几乎是唯一的意义</li>
+<li>不要逃避它，去面对他</li>
+<li>当发现解决了这个问题，你已经拥有针对这类问题的一个实践过的解决方案</li>
+<li>当发现问题，要解决问题，有一套非常必要的流程需要走(出自《原则》)<pre><code>步骤：
+1．有明确的目标。
+2．找到阻碍你实现这些目标的问题，并且不容忍问题。
+3．准确诊断问题，找到问题的根源。
+4．规划可以解决问题的方案。
+5．做一切必要的事来践行这些方案，实现成果。
+
+ 出现问题怎么办？
+1. 先把问题是什么弄明白，再决定怎么做。
+2. 区分直接原因和根本原因
+3. 认识到了解人（包括你自己）的特性，有助于对其形成合理预期
+</code></pre>
+</li>
+</ul>
+<h1 id="习惯篇">习惯篇</h1>
+<hr>
+<p><strong>生活</strong></p>
 <ul>
 <li>每天早上记录体重</li>
 <li>每天早上深蹲</li>
@@ -156,22 +178,26 @@
 <li>每天晚上记账</li>
 <li>每天晚上写日记</li>
 </ul>
-<h1 id="护肤">护肤</h1>
+<hr>
+<p><strong>护肤</strong></p>
 <ul>
 <li>每天早上洗完脸补水</li>
 <li>每天晚上洗完澡补水</li>
 <li>每周去角质</li>
 </ul>
-<h1 id="专业">专业</h1>
+<hr>
+<p><strong>专业</strong></p>
 <ul>
 <li>每周输出一篇文章</li>
 <li>每天背50个单词</li>
 </ul>
-<h1 id="看书">看书</h1>
+<hr>
+<p><strong>看书</strong></p>
 <ul>
 <li>每天看一个小时书</li>
 </ul>
-<h1 id="减肥">减肥</h1>
+<hr>
+<p><strong>减肥</strong></p>
 <ul>
 <li>每天30-50个深蹲</li>
 <li>时不时拉伸肌肉</li>
