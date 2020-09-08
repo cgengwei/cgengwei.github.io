@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-09-08T16:03:59.284Z</updated>
+    <updated>2020-09-08T16:08:17.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -29,7 +29,7 @@
 <li>前一天要安排好第二天的事情再睡觉</li>
 <li>在起床的闹钟里面提醒自己要看滴答清单</li>
 <li>遇到问题要积极主动去解决、</li>
-<li>计划非常重要，小任务一定要仔细拆</li>
+<li>计划非常重要，小任务一定要仔细拆，我一直逃避去做拉勾的作业大概率是因为我没有想好我要把作业做成什么样子，我还有多少步骤要做。</li>
 </ul>
 <h1 id="成功日记">成功日记</h1>
 <ul>
@@ -211,20 +211,20 @@
         <updated>2020-08-21T15:55:14.000Z</updated>
         <content type="html"><![CDATA[<h1 id="成功日记">成功日记</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1562730"><label class="task-list-item-label" for="task-item-1562730"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-92655"><label class="task-list-item-label" for="task-item-92655"> 预约牙医、看皮肤科</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7745228"><label class="task-list-item-label" for="task-item-7745228"> 买顶帽子</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7999900"><label class="task-list-item-label" for="task-item-7999900"> 英语单词50个</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2982119"><label class="task-list-item-label" for="task-item-2982119"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8724303"><label class="task-list-item-label" for="task-item-8724303"> 我吃了减肥中餐</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5291081"><label class="task-list-item-label" for="task-item-5291081"> 晚上写日记</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5887119"><label class="task-list-item-label" for="task-item-5887119"> 晚上记账</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4414741"><label class="task-list-item-label" for="task-item-4414741"> 晚上洗澡</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4515424"><label class="task-list-item-label" for="task-item-4515424"> 晚上补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9081013"><label class="task-list-item-label" for="task-item-9081013"> 晚上刷牙</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4640078"><label class="task-list-item-label" for="task-item-4640078"> 早起补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5303914"><label class="task-list-item-label" for="task-item-5303914"> 早起记录体重</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1615168"><label class="task-list-item-label" for="task-item-1615168"> 早起剃胡子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2903587"><label class="task-list-item-label" for="task-item-2903587"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7254122"><label class="task-list-item-label" for="task-item-7254122"> 预约牙医、看皮肤科</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8273389"><label class="task-list-item-label" for="task-item-8273389"> 买顶帽子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-872655"><label class="task-list-item-label" for="task-item-872655"> 英语单词50个</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5005212"><label class="task-list-item-label" for="task-item-5005212"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9598447"><label class="task-list-item-label" for="task-item-9598447"> 我吃了减肥中餐</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2340517"><label class="task-list-item-label" for="task-item-2340517"> 晚上写日记</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2009172"><label class="task-list-item-label" for="task-item-2009172"> 晚上记账</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4407036"><label class="task-list-item-label" for="task-item-4407036"> 晚上洗澡</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5476996"><label class="task-list-item-label" for="task-item-5476996"> 晚上补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5534829"><label class="task-list-item-label" for="task-item-5534829"> 晚上刷牙</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3056484"><label class="task-list-item-label" for="task-item-3056484"> 早起补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9962466"><label class="task-list-item-label" for="task-item-9962466"> 早起记录体重</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6151291"><label class="task-list-item-label" for="task-item-6151291"> 早起剃胡子</label></li>
 </ul>
 <h1 id="自我感觉">自我感觉</h1>
 <ul>
