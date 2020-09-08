@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>20200609想法 | cgengwei</title>
+<title>java并发编程实战 | cgengwei</title>
 <meta name="description" content="把“想要的”变成“现实”很酷" />
 <link rel="shortcut icon" href="https://cgengwei.github.io/favicon.ico">
 <link rel="stylesheet" href="https://cgengwei.github.io/styles/main.css">
@@ -16,21 +16,18 @@
 <script src="https://cgengwei.github.io/media/js/functions.js"></script>
  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
     <meta name="referrer" content="never">
-    <meta name="description" content="现在处于什么阶段？
+    <meta name="description" content="第一章
 
-处于自己想好好走自己的路的阶段
+并发历史
+从头到尾只执行一个程序——&gt;可以执行多个程序（操作系统，进程出现）——&gt;线程出现（轻量级进程，一个进程可以运行有线程）
+并发的好处
 
-可预见的困难？
-
-刚开始肯定是无法很好地安排好自己的时间，每天的工作
-容易出现回到自己的那种堕落的状态
-做的计划可能会不合理
-可能到了时间点，没有动力做
-
-心理准备
-
-如果我成功养成做..." />
-    <meta name="keywords" content="thought-on-myself,thought" />
+发挥多处理器的强大能力
+建模简单化
+异步事件的简化处理
+响应更灵敏的界面
+..." />
+    <meta name="keywords" content="book" />
     <script src="https://cgengwei.github.io/media/js/waterfall.min.js"></script>
     <script src="https://cgengwei.github.io/media/js/prism.min.js"></script>
   </head>
@@ -116,25 +113,23 @@
       <main id="single" class="main grid-container fullcover no-sidebar aos-init aos-animate" data-aos="fade">
 
         <div class="center content">
-          <div class="featured-image cover" style="background-image: url('\media\images\custom-featureImage.jpg');">
+          <div class="featured-image cover" style="background-image: url('https://cgengwei.github.io/post-images/java-bing-fa-bian-cheng-shi-zhan.jpg');">
             <div class="meta top"> 
-              <time class="meta-info" style="float:left;" datetime="2020-06-09"><i class="fa fa-calendar"></i><span class="lately">3 个月前</span></time>
+              <time class="meta-info" style="float:left;" datetime="2020-09-09"><i class="fa fa-calendar"></i><span class="lately">6 分钟前</span></time>
               
-              <a href="https://cgengwei.github.io/post/20200609-xiang-fa/#comments" class="comments meta-info" title="">
-                <i class="fa fa-comment remixicon"></i><span class="comment-count valine-comment-count" data-xid="/20200609-xiang-fa/"> </span>
+              <a href="https://cgengwei.github.io/post/java-bing-fa-bian-cheng-shi-zhan/#comments" class="comments meta-info" title="">
+                <i class="fa fa-comment remixicon"></i><span class="comment-count valine-comment-count" data-xid="/java-bing-fa-bian-cheng-shi-zhan/"> </span>
               </a>
-              <span id="/20200609-xiang-fa/" class="leancloud_visitors views-counter meta-info" title=""><i class="fa fa-leancloud remixicon"></i><span class="leancloud-visitors-count"></span></span>
+              <span id="/java-bing-fa-bian-cheng-shi-zhan/" class="leancloud_visitors views-counter meta-info" title=""><i class="fa fa-leancloud remixicon"></i><span class="leancloud-visitors-count"></span></span>
               
             </div>
             <div class="info">
               <div class="tags ">
                 
-                      <a href="https://cgengwei.github.io/tag/WUQgqPkY6/" class="ctag ctag-0 ctag-WUQgqPkY6" aria-label="">thought-on-myself</a>
-                    
-                      <a href="https://cgengwei.github.io/tag/EBdxwm-Bl/" class="ctag ctag-1 ctag-EBdxwm-Bl" aria-label="">thought</a>
+                      <a href="https://cgengwei.github.io/tag/f_r20LRl_/" class="ctag ctag-0 ctag-f_r20LRl_" aria-label="">book</a>
                     
               </div>
-              <h1 class="title ularge white bold">20200609想法</h1>
+              <h1 class="title ularge white bold">java并发编程实战</h1>
             </div>
           </div>
         </div>  
@@ -144,60 +139,28 @@
             <article class="main-article post">
               <section class="post-content">
                 <div class="text">
-                  <h1 id="现在处于什么阶段">现在处于什么阶段？</h1>
+                  <p>第一章</p>
+<ol>
+<li>并发历史<br>
+从头到尾只执行一个程序——&gt;可以执行多个程序（操作系统，进程出现）——&gt;线程出现（轻量级进程，一个进程可以运行有线程）</li>
+<li>并发的好处
 <ul>
-<li>处于自己想好好走自己的路的阶段</li>
-</ul>
-<h1 id="可预见的困难">可预见的困难？</h1>
-<ul>
-<li>刚开始肯定是无法很好地安排好自己的时间，每天的工作</li>
-<li>容易出现回到自己的那种堕落的状态</li>
-<li>做的计划可能会不合理</li>
-<li>可能到了时间点，没有动力做</li>
-</ul>
-<h1 id="心理准备">心理准备</h1>
-<ul>
-<li>如果我成功养成做计划，做反思，回顾的习惯，将终生受益</li>
-<li>所以我愿意花半年来培养这些习惯</li>
-<li>如果失败了，去找原因，改正，继续做</li>
-<li>如果又失败了，再找原因，继续刚</li>
-<li>。。。</li>
-<li>直到我能成功地做计划，反思回顾。</li>
-</ul>
-<h1 id="反思">反思</h1>
-<ul>
-<li>我每天必须有那么一段时间，让自己思考，不受其他外在因素的影响
-<ul>
-<li>我需要认真思考我自己存在的问题，去解决，去找解决方案</li>
-<li>我可以试试，每天晚上花一个小时来记录，来思考，</li>
+<li>发挥多处理器的强大能力</li>
+<li>建模简单化</li>
+<li>异步事件的简化处理</li>
+<li>响应更灵敏的界面</li>
 </ul>
 </li>
-<li>现在手机上的推送，看到的，读到的，见到的，都是大数据根据我想的推荐给我的，这可能会使我眼界越来越狭隘，我需要去阅读，去体验人生，而少碰手机</li>
-<li>需要进行记录，让自己看到自己的成长
+<li>并发的坏处
 <ul>
-<li>当我受挫，当我失落的时候，看看自己的成长能让我自己明白自己也不是那么失败</li>
-<li>我需要对着自己的愿景，每天看自己的计划已经走到哪一步了，是不是又前进了呢，让自己每天都有动力去完成他，去让自己更好</li>
-<li>我需要通过这些一点点增加自己的成就感</li>
+<li>安全性问题（数据错乱）</li>
+<li>活跃性问题（死锁，饥饿，活锁）</li>
+<li>性能问题（上下文切换带来的开销，同步机制抑制编译器优化，增加共享内存的同步流量）</li>
 </ul>
 </li>
-<li>计划的时候，需要给计划容错的空间
-<ul>
-<li>当自己没有顺利地完成任务，不会让自己就想放弃这一整份计划</li>
-<li>如果基于这个心理，感觉计划应该时间越短越好</li>
-<li>但事实上，我需要长期的计划和短期的计划，我也无法花过多的时间在计划上</li>
-</ul>
-</li>
-<li>我每天必须</li>
-</ul>
-<h1 id="回顾一下6月份第一个星期">回顾一下6月份第一个星期</h1>
-<h2 id="进步">进步</h2>
-<pre><code>- 第一个星期做得比较好的就是做了一份比较合理的计划
-- 第一天也是比较顺利地完成了任务
-- 第二天虽然做得不好，但是我突然发现有这么一两天的容错，真的心理层面非常不一样，不会想着自暴自弃，完全不管不顾
-</code></pre>
-<h2 id="不足">不足</h2>
-<pre><code>- 这个星期接下来的日子都没有好好记录，没有好好执行
-- 也没有反思</code></pre>
+<li>并发无处不在<br>
+因为jvm本身就会有其他线程存在，引入框架或者使用一些工具类或者调用RMI等等情况，往往也会跟着引进并发。</li>
+</ol>
 
                 </div>
                 <div class="clear"></div>
@@ -207,26 +170,13 @@
 
             <section class="related section">
               
-              <article class="prev grid-50 tablet-grid-50 grid-parent">
-                <div class="thumb cover lazy loaded" style="background-image: url('https://raw.githubusercontent.com/cgengwei/images/master/img/20200620005732.jpg');"></div>
-                 <a href="https://cgengwei.github.io/post/lesslessru-lian-shi-greatergreater/" class="full-link"></a>
-                 <div class="info">
-                  <time datetime="2020-06-19">2020-06-19</time>
-                  <h4 class="title white no-margin">《入殓师》</h4>
-                </div>
-                 <span class="epcl-button red">
-                  <img src="https://cgengwei.github.io/media/images/left-arrow.svg" width="15" alt="Left Arrow">
-                </span>
-                <div class="overlay"></div>
-              </article>
-              
               
               <article class="next grid-50 tablet-grid-50 grid-parent">
-                <div class="thumb cover lazy loaded" style="background-image: url('https://cgengwei.github.io/media/images/45JXciSds.jpg');"></div>
-                 <a href="https://cgengwei.github.io/post/2020-06-ji-hua/" class="full-link"></a>
+                <div class="thumb cover lazy loaded" style="background-image: url('https://cgengwei.github.io/post-images/20200908.jpg');"></div>
+                 <a href="https://cgengwei.github.io/post/20200908/" class="full-link"></a>
                  <div class="info">
-                  <time datetime="2020-06-02">2020-06-02</time>
-                  <h4 class="title white no-margin">2020-06计划</h4>
+                  <time datetime="2020-09-08">2020-09-08</time>
+                  <h4 class="title white no-margin">20200908</h4>
                 </div>
                  <span class="epcl-button red">
                   <img src="https://cgengwei.github.io/media/images/right-arrow.svg" width="15" alt="Left Arrow">
