@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-09-09T13:05:19.849Z</updated>
+    <updated>2020-09-09T17:21:40.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,50 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[20200909]]></title>
+        <id>https://cgengwei.github.io/post/20200909/</id>
+        <link href="https://cgengwei.github.io/post/20200909/">
+        </link>
+        <updated>2020-09-09T17:07:06.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="自言自语">自言自语</h1>
+<ul>
+<li>习惯里面加入阿拉伯拉伸</li>
+<li>深蹲从30个加到50个，刚开始还是有点不习惯，慢慢适应</li>
+<li>除了专业书，还是需要看看课外书，打算把《被讨厌的勇气》这本书重新看一遍，然后写一下读书提纲和读书笔记</li>
+<li>自己还是渴望一份爱情，如果真的谈恋爱，我真的需要花时间去好好经营，腾出时间来，现阶段还是先学习学习，提升能力，明年3、4月进个大厂</li>
+</ul>
+<h1 id="不足和反思">不足和反思</h1>
+<hr>
+<ul>
+<li>现象：看《java并发编程实战》非常慢</li>
+<li>原因：看书的时候一字一字地看，而且还边看边摘抄</li>
+<li>解决方法：可以赶紧刷一遍要紧，然后再仔细看一遍，然后再根据记忆写下重要的东西，然后可以再刷一遍。</li>
+</ul>
+<hr>
+<ul>
+<li>现象：拉勾作业还是没有做</li>
+<li>原因：还是没有去想明白自己到底要做成什么效果，自己需要做什么</li>
+<li>解决方法：先确定自己想要把作业做成什么样子。还是那句话，完成比完美重要。</li>
+</ul>
+<h1 id="成功日记">成功日记</h1>
+<ul>
+<li>背单词</li>
+<li>阅读</li>
+<li>记账</li>
+<li>写日记</li>
+<li>晚上刷牙</li>
+<li>晚上洗澡</li>
+<li>晚上洗完澡补水</li>
+<li>早上剃胡子</li>
+<li>早上补水</li>
+<li>早上称体重</li>
+<li>早上刷牙洗脸</li>
+<li>深蹲</li>
+<li></li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[java并发编程实战]]></title>
         <id>https://cgengwei.github.io/post/java-bing-fa-bian-cheng-shi-zhan/</id>
@@ -271,20 +315,20 @@
         <updated>2020-08-21T15:55:14.000Z</updated>
         <content type="html"><![CDATA[<h1 id="成功日记">成功日记</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8052890"><label class="task-list-item-label" for="task-item-8052890"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5997997"><label class="task-list-item-label" for="task-item-5997997"> 预约牙医、看皮肤科</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3742016"><label class="task-list-item-label" for="task-item-3742016"> 买顶帽子</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8307226"><label class="task-list-item-label" for="task-item-8307226"> 英语单词50个</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1610059"><label class="task-list-item-label" for="task-item-1610059"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7235362"><label class="task-list-item-label" for="task-item-7235362"> 我吃了减肥中餐</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5814431"><label class="task-list-item-label" for="task-item-5814431"> 晚上写日记</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9935190"><label class="task-list-item-label" for="task-item-9935190"> 晚上记账</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-40634"><label class="task-list-item-label" for="task-item-40634"> 晚上洗澡</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2124591"><label class="task-list-item-label" for="task-item-2124591"> 晚上补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-133658"><label class="task-list-item-label" for="task-item-133658"> 晚上刷牙</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3368279"><label class="task-list-item-label" for="task-item-3368279"> 早起补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9519394"><label class="task-list-item-label" for="task-item-9519394"> 早起记录体重</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5799977"><label class="task-list-item-label" for="task-item-5799977"> 早起剃胡子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4787285"><label class="task-list-item-label" for="task-item-4787285"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6573757"><label class="task-list-item-label" for="task-item-6573757"> 预约牙医、看皮肤科</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3685535"><label class="task-list-item-label" for="task-item-3685535"> 买顶帽子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5944314"><label class="task-list-item-label" for="task-item-5944314"> 英语单词50个</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5455118"><label class="task-list-item-label" for="task-item-5455118"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3890866"><label class="task-list-item-label" for="task-item-3890866"> 我吃了减肥中餐</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3583074"><label class="task-list-item-label" for="task-item-3583074"> 晚上写日记</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6693959"><label class="task-list-item-label" for="task-item-6693959"> 晚上记账</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3521339"><label class="task-list-item-label" for="task-item-3521339"> 晚上洗澡</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8518438"><label class="task-list-item-label" for="task-item-8518438"> 晚上补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7404586"><label class="task-list-item-label" for="task-item-7404586"> 晚上刷牙</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-483460"><label class="task-list-item-label" for="task-item-483460"> 早起补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2376645"><label class="task-list-item-label" for="task-item-2376645"> 早起记录体重</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1021087"><label class="task-list-item-label" for="task-item-1021087"> 早起剃胡子</label></li>
 </ul>
 <h1 id="自我感觉">自我感觉</h1>
 <ul>
@@ -421,34 +465,6 @@
 </code></pre>
 </li>
 <li>酷狗唱唱教学的视频</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《霜花店》]]></title>
-        <id>https://cgengwei.github.io/post/lesslessshuang-hua-dian-greatergreater/</id>
-        <link href="https://cgengwei.github.io/post/lesslessshuang-hua-dian-greatergreater/">
-        </link>
-        <updated>2020-06-20T01:22:37.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="电影简述">电影简述</h1>
-<p>电影主要讲述了元朝时期朝鲜皇帝、他的带刀侍卫和王后三个人的故事。</p>
-<p>朝鲜皇帝因为是同性恋，而与自幼一起长大的带刀侍卫缠绵在一起。</p>
-<p>因为皇帝需要子嗣来继承王位，这个事情遭到朝廷各个大臣的热议，皇帝迫于压力让自己的带刀侍卫与王后性交，希望以后生出来的小孩也跟带刀侍卫一样惹人喜欢。</p>
-<p>而后自己的侍卫发现，自己对王后动心了，时长回味与王后缠绵的场景。王后因为这次做爱，也爱上了侍卫。而后他们偷偷交往，而各种蛛丝马迹依然逃不过皇帝的眼睛。</p>
-<p>皇帝开始试探自己的爱人（带刀侍卫），发现他并没有如实交代，慢慢后悔安排了这么一场“交易”。侍卫也慢慢发现自己并不是“弯”的，发现自己并不是真正喜欢皇帝。皇帝也慢慢感受到了自己已经逐渐失去爱人。</p>
-<p>宫里暗地里掀起的造反活动中，皇帝要求侍卫杀光造反的人，而侍卫则因为不想王后伤心，放走了王后的哥哥皇舅并隐瞒了皇帝。</p>
-<p>一个夜里皇帝再次发现王后和侍卫在书房做爱，当着王后的面对侍卫执行宫刑。而后皇帝希望通过这样阻止侍卫和王后的交往，并且好言相劝希望能够挽回侍卫的心。</p>
-<p>而此时王后担心皇帝对侍卫再次伤害，命人放走了侍卫，而这一切触怒了皇帝。</p>
-<p>皇帝利用杀害王后的假消息以及假王后的人头吸引回侍卫回到宫里，希望能够再次挽回侍卫。而侍卫此时一心想要报复，在一次宴席中，侍卫偷偷潜入宫中，并与皇帝反目，两人打斗十分激烈，双双阵亡。</p>
-<h1 id="电影感悟">电影感悟</h1>
-<ul>
-<li>原来同性恋也同样是恋爱呀，两个男人或者两个女人深爱着彼此呀</li>
-<li>恋爱中，爱的越深人越会一直想着给机会挽回对方，卑微地爱着，也会因为对方的背叛失去理智地报复（而后大概会后悔不矣）</li>
-<li>恋爱中，不爱了的人，如果不及时表明自己的想法，可能越拖越受伤</li>
-<li>恋爱中，不爱了的人，往往会时常想着别人吧，而又害怕伤害爱自己的人</li>
-<li>恋爱中，不爱了就是不爱了，别迁就，放过自己放过对方。</li>
-<li>男人女人都可能会因为性而爱上某个人吧。</li>
-<li>恋爱中，如果对方不爱了，那么放对方走吧，不要想着再给他机会，伤害自己伤害对方。</li>
 </ul>
 ]]></content>
     </entry>
