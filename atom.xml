@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-09-16T17:00:38.390Z</updated>
+    <updated>2020-09-22T04:03:15.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[私募股权基金]]></title>
+        <id>https://cgengwei.github.io/post/si-mu-gu-quan-ji-jin/</id>
+        <link href="https://cgengwei.github.io/post/si-mu-gu-quan-ji-jin/">
+        </link>
+        <updated>2020-09-18T02:52:51.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="为什么写这个">为什么写这个</h1>
+<ul>
+<li>昨晚看了吴子敬“大咖来了”的分享</li>
+<li>私募股权基金，私募股票基金，私募其他基金，私募资源管理基金</li>
+</ul>
+<h1 id="目录">目录</h1>
+<ul>
+<li>政府的提倡</li>
+<li>要素 创新</li>
+</ul>
+<h1 id="政府的提倡">政府的提倡</h1>
+<ul>
+<li></li>
+</ul>
+<h1 id="私募股权基金">私募股权基金</h1>
+<ul>
+<li>对于企业来说，评价一个公司的市值有两个关键因素
+<ul>
+<li>年收益率</li>
+<li>市盈率</li>
+</ul>
+</li>
+<li>对于收购，如果通过增发股票来收购市盈率比自己高的企业，会导致自己的股票价格下跌</li>
+<li>所以一般的操作是，由大公司牵头组建一个私募基金公司，用于对市盈率比自己高，而且未上市公司的收购进行pe、vc投资。</li>
+<li>然后等公司的发展规模达到一定程度，市盈率比自己公司的股票低或者等值时，进行收购。让基金公司得以脱身。</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20200909]]></title>
         <id>https://cgengwei.github.io/post/20200909/</id>
@@ -315,20 +349,20 @@
         <updated>2020-08-21T15:55:14.000Z</updated>
         <content type="html"><![CDATA[<h1 id="成功日记">成功日记</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3096673"><label class="task-list-item-label" for="task-item-3096673"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2649942"><label class="task-list-item-label" for="task-item-2649942"> 预约牙医、看皮肤科</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3320056"><label class="task-list-item-label" for="task-item-3320056"> 买顶帽子</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1768186"><label class="task-list-item-label" for="task-item-1768186"> 英语单词50个</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1887569"><label class="task-list-item-label" for="task-item-1887569"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3209680"><label class="task-list-item-label" for="task-item-3209680"> 我吃了减肥中餐</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3420676"><label class="task-list-item-label" for="task-item-3420676"> 晚上写日记</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9431519"><label class="task-list-item-label" for="task-item-9431519"> 晚上记账</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4939327"><label class="task-list-item-label" for="task-item-4939327"> 晚上洗澡</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3860130"><label class="task-list-item-label" for="task-item-3860130"> 晚上补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3042592"><label class="task-list-item-label" for="task-item-3042592"> 晚上刷牙</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8554006"><label class="task-list-item-label" for="task-item-8554006"> 早起补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-212625"><label class="task-list-item-label" for="task-item-212625"> 早起记录体重</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4211428"><label class="task-list-item-label" for="task-item-4211428"> 早起剃胡子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5305316"><label class="task-list-item-label" for="task-item-5305316"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2430822"><label class="task-list-item-label" for="task-item-2430822"> 预约牙医、看皮肤科</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4591079"><label class="task-list-item-label" for="task-item-4591079"> 买顶帽子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7696526"><label class="task-list-item-label" for="task-item-7696526"> 英语单词50个</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9244357"><label class="task-list-item-label" for="task-item-9244357"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6183864"><label class="task-list-item-label" for="task-item-6183864"> 我吃了减肥中餐</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2807160"><label class="task-list-item-label" for="task-item-2807160"> 晚上写日记</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3137674"><label class="task-list-item-label" for="task-item-3137674"> 晚上记账</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6162608"><label class="task-list-item-label" for="task-item-6162608"> 晚上洗澡</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1227488"><label class="task-list-item-label" for="task-item-1227488"> 晚上补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3100718"><label class="task-list-item-label" for="task-item-3100718"> 晚上刷牙</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7031961"><label class="task-list-item-label" for="task-item-7031961"> 早起补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6194141"><label class="task-list-item-label" for="task-item-6194141"> 早起记录体重</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3639044"><label class="task-list-item-label" for="task-item-3639044"> 早起剃胡子</label></li>
 </ul>
 <h1 id="自我感觉">自我感觉</h1>
 <ul>
@@ -412,59 +446,6 @@
 <ul>
 <li>每天30-50个深蹲</li>
 <li>时不时拉伸肌肉</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[唱歌学习路径]]></title>
-        <id>https://cgengwei.github.io/post/xue-xi-chang-ge-de-jian-dan-lu-jing/</id>
-        <link href="https://cgengwei.github.io/post/xue-xi-chang-ge-de-jian-dan-lu-jing/">
-        </link>
-        <updated>2020-06-20T06:30:16.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="需要">需要</h1>
-<ul>
-<li>坚持</li>
-<li>尝试</li>
-<li>练习</li>
-</ul>
-<h1 id="唱好歌">唱好歌</h1>
-<ul>
-<li>气息
-<ul>
-<li>了解胸腹联合呼吸法</li>
-<li>了解呼吸的几种方式</li>
-<li>练习气息--发si</li>
-<li>练习气息--打嘟噜</li>
-</ul>
-</li>
-<li>打开喉咙/产生共鸣
-<ul>
-<li>半打哈欠，喉头往下并固定</li>
-<li>共鸣相关的知识和练习</li>
-</ul>
-</li>
-<li>固定声音位置
-<ul>
-<li>小声哼鸣</li>
-</ul>
-</li>
-<li>情感节奏
-<ul>
-<li>认识简谱</li>
-<li>认识节奏与节拍</li>
-<li>认识音准、音域、音阶</li>
-</ul>
-</li>
-<li>咬字吐字练习</li>
-</ul>
-<h1 id="相关材料">相关材料</h1>
-<ul>
-<li>2018年唱歌系统教程<pre><code>   链接：https://pan.baidu.com/s/1dlsq7vEC7a_OfaqauK5Ppg 
-  提取码：6252 
-  复制这段内容后打开百度网盘手机App，操作更方便哦
-</code></pre>
-</li>
-<li>酷狗唱唱教学的视频</li>
 </ul>
 ]]></content>
     </entry>
