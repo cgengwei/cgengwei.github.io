@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-09-22T14:34:18.565Z</updated>
+    <updated>2020-09-23T01:11:39.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -18,155 +18,17 @@
         <updated>2020-09-18T02:52:51.000Z</updated>
         <content type="html"><![CDATA[<h1 id="为什么写这个">为什么写这个</h1>
 <ul>
-<li>昨晚看了吴子敬“大咖来了”的分享，感觉这个老师讲得非常好，所以特地来记录一下。</li>
-<li>私募股权基金，私募股票基金，私募其他基金，私募资源管理基金，产业基金</li>
-</ul>
-<h1 id="环境">环境</h1>
-<ul>
-<li>动能转换——培育壮大新动能，加快创新驱动</li>
-<li>要素驱动----》》》创新驱动
-<ol>
-<li>要素驱动
-<ul>
-<li>开发区模式</li>
-<li>信贷推动下的投资拉动的增长模式</li>
-<li>目的
-<ul>
-<li>为了产业升级</li>
-</ul>
-</li>
-<li>常用方式
-<ul>
-<li>土地要素置换资本要素，然后在一块新的地方进行道路修整，基建建设，然后吸引公司，当人来了之后，就会产生一堆堆需求，然后就慢慢发展起来</li>
-<li>资源要素置换资本要素，然后~~</li>
-</ul>
-</li>
-<li>缺点
-<ul>
-<li>因为投资编辑回报率递减，所以这个模式慢慢变得不值得</li>
-<li>采用要素驱动，房价就会一直持续</li>
-<li>地方财政杠杆率过高，压力非常大</li>
-</ul>
-</li>
-<li>土地要素、资源要素</li>
-</ul>
-</li>
-<li>创新驱动
-<ol>
-<li>目的
-<ol>
-<li>新产业由无到有</li>
-<li>旧产业叠加新技术进行升级</li>
-</ol>
-</li>
-<li>创新驱动</li>
-<li>融资方式
-<ol>
-<li>直接融资
-<ol>
-<li>股权融资</li>
-<li>例如ipo等</li>
-<li>更利于创新孵化</li>
-</ol>
-</li>
-<li>间接融资
-<ol>
-<li>信贷融资</li>
-<li>要求强增性——强担保，强抵押</li>
-<li>要求期限的确定性——到时就得还债</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-</li>
-</ul>
-<h1 id="基金基础知识">基金基础知识</h1>
-<ul>
-<li>分类
-<ul>
-<li>私募基金</li>
-<li>公募基金</li>
-</ul>
-</li>
-<li>私募基金
-<ul>
-<li>私募证券投资基金
-<ul>
-<li>炒股票，炒期货，炒~~</li>
-</ul>
-</li>
-<li>私募股权投资基金/创业投资基金
-<ul>
-<li>给企业投资</li>
-</ul>
-</li>
-<li>其他私募投资基金
-<ul>
-<li>红酒、艺术品等</li>
-</ul>
-</li>
-<li>私募资产配置基金
-<ul>
-<li>用于投资其他基金</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>四件事/基金的四大方向
-<ul>
-<li>募
-<ul>
-<li>找钱</li>
-</ul>
-</li>
-<li>投
-<ul>
-<li>找公司</li>
-</ul>
-</li>
-<li>管
-<ul>
-<li>帮助管理公司，使得公司往既定的方向发展</li>
-<li>商业模式优化，财务优化，法务优化</li>
-</ul>
-</li>
-<li>退
-<ul>
-<li>股权转让，或者溢价回报</li>
-<li>ipo</li>
-<li>并购重组</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>市值
-<ul>
-<li>市值=净利润*市盈率</li>
-<li>如果利润固定，那么市值是10-20倍，那么年收益也就是5%-10%</li>
-<li>成长越高，市盈率越高</li>
-<li>投资看什么？利润空间+利润增速</li>
-<li>戴维斯双击</li>
-<li>越早期，收益越高，当然</li>
-</ul>
-</li>
-<li>私募股权投资基金/创业投资基金
-<ul>
-<li>获利模式</li>
-<li>天使投资/VC投资</li>
-</ul>
-</li>
-</ul>
-<h1 id="上市公司">上市公司</h1>
-<ul>
-<li>需要优化资源配置等等</li>
+<li>昨晚看了吴子敬“大咖来了”的分享</li>
+<li>私募股权基金，私募股票基金，私募其他基金，私募资源管理基金</li>
 </ul>
 <h1 id="目录">目录</h1>
 <ul>
 <li>政府的提倡</li>
 <li>要素 创新</li>
+</ul>
+<h1 id="政府的提倡">政府的提倡</h1>
+<ul>
+<li></li>
 </ul>
 <h1 id="私募股权基金">私募股权基金</h1>
 <ul>
@@ -487,20 +349,20 @@
         <updated>2020-08-21T15:55:14.000Z</updated>
         <content type="html"><![CDATA[<h1 id="成功日记">成功日记</h1>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5706634"><label class="task-list-item-label" for="task-item-5706634"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9574058"><label class="task-list-item-label" for="task-item-9574058"> 预约牙医、看皮肤科</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8671638"><label class="task-list-item-label" for="task-item-8671638"> 买顶帽子</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1362029"><label class="task-list-item-label" for="task-item-1362029"> 英语单词50个</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9251469"><label class="task-list-item-label" for="task-item-9251469"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6369383"><label class="task-list-item-label" for="task-item-6369383"> 我吃了减肥中餐</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4864671"><label class="task-list-item-label" for="task-item-4864671"> 晚上写日记</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4231302"><label class="task-list-item-label" for="task-item-4231302"> 晚上记账</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7796752"><label class="task-list-item-label" for="task-item-7796752"> 晚上洗澡</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3322766"><label class="task-list-item-label" for="task-item-3322766"> 晚上补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2726280"><label class="task-list-item-label" for="task-item-2726280"> 晚上刷牙</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9305430"><label class="task-list-item-label" for="task-item-9305430"> 早起补水</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8803785"><label class="task-list-item-label" for="task-item-8803785"> 早起记录体重</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1147677"><label class="task-list-item-label" for="task-item-1147677"> 早起剃胡子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5961628"><label class="task-list-item-label" for="task-item-5961628"> 早上安排了我想养成的比较小的习惯，在滴答清单上</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1076817"><label class="task-list-item-label" for="task-item-1076817"> 预约牙医、看皮肤科</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3847222"><label class="task-list-item-label" for="task-item-3847222"> 买顶帽子</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7346994"><label class="task-list-item-label" for="task-item-7346994"> 英语单词50个</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5981437"><label class="task-list-item-label" for="task-item-5981437"> 我抵制了老弟的夜宵诱惑，非常棒呀</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3142651"><label class="task-list-item-label" for="task-item-3142651"> 我吃了减肥中餐</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5569014"><label class="task-list-item-label" for="task-item-5569014"> 晚上写日记</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5196805"><label class="task-list-item-label" for="task-item-5196805"> 晚上记账</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1099526"><label class="task-list-item-label" for="task-item-1099526"> 晚上洗澡</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-700603"><label class="task-list-item-label" for="task-item-700603"> 晚上补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2058130"><label class="task-list-item-label" for="task-item-2058130"> 晚上刷牙</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2258930"><label class="task-list-item-label" for="task-item-2258930"> 早起补水</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9244705"><label class="task-list-item-label" for="task-item-9244705"> 早起记录体重</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7599536"><label class="task-list-item-label" for="task-item-7599536"> 早起剃胡子</label></li>
 </ul>
 <h1 id="自我感觉">自我感觉</h1>
 <ul>
