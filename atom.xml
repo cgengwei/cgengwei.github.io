@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-11-02T13:10:14.489Z</updated>
+    <updated>2020-11-09T16:06:16.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[20201109 随写]]></title>
+        <id>https://cgengwei.github.io/post/20201109suixie/</id>
+        <link href="https://cgengwei.github.io/post/20201109suixie/">
+        </link>
+        <updated>2020-11-09T15:53:20.000Z</updated>
+        <content type="html"><![CDATA[<p>又是感觉好久好久了，都没有写博客，没有写心得了。<br>
+现在想把自己稀碎的生活重新捡起来。<br>
+我希望是这个样子的：</p>
+<ul>
+<li>不与他人比对，只与昨天做比对。</li>
+<li>享受生活，享受这个奋斗的过程。</li>
+<li>记录自己生活的点点滴滴，我不想走过这么多岁月，达到自己的目标，才发现这个过程我都没有认认真真地享受。</li>
+<li>成为自己想要成为的那个人。</li>
+<li>计划应该是告诉自己该怎么走，而不是把自己把死胡同里面逼。</li>
+<li>目标不要一下子啊太多了，那样子可能到最后一事无成。</li>
+</ul>
+<h1 id="吃鸡快乐">吃鸡快乐</h1>
+<figure data-type="image" tabindex="1"><img src="https://cgengwei.github.io/post-images/1604937741632.jpg" alt="" loading="lazy"></figure>
+<h1 id="我喜欢的街道">我喜欢的街道</h1>
+<p><img src="https://cgengwei.github.io/post-images/1604937769159.jpg" alt="" loading="lazy"><br>
+<img src="https://cgengwei.github.io/post-images/1604937776246.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那些进入你心头的文字]]></title>
         <id>https://cgengwei.github.io/post/na-xie-wen-rou-ni-xin-tou-de-wen-zi/</id>
@@ -604,47 +628,6 @@
 <li>洗澡补水</li>
 <li>早上刷牙洗脸</li>
 <li>早上称体重</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20200826]]></title>
-        <id>https://cgengwei.github.io/post/20200826/</id>
-        <link href="https://cgengwei.github.io/post/20200826/">
-        </link>
-        <updated>2020-08-26T16:22:58.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="不足做得不好的地方">不足/做得不好的地方</h1>
-<ul>
-<li>晚上、昨天晚上还是吃夜宵了<pre><code>过程是：
-1. 从下班回来的时候就想着吃夜宵
-2. 看到弟弟吃夜宵回来，这种想法更是强烈
-3. 想要减肥的想法几乎没有
-4. 也没有想起我的计划，这个月要瘦到181斤
-5. 没有想到我的美好的计划后面将变成什么
-
-怎么改进：
-值得深思、这是一个好问题
-</code></pre>
-</li>
-</ul>
-<h1 id="成功日记">成功日记</h1>
-<hr>
-<p><strong>生活/计划</strong></p>
-<ul>
-<li>今天开始搞spring的作业</li>
-<li>想要在上班学学极客时间的东西，计划每天写个4个小时的代码，然后花两个小时左右进行自学。</li>
-</ul>
-<hr>
-<p><strong>习惯</strong></p>
-<ul>
-<li>早上刷牙洗脸</li>
-<li>早上剃胡子</li>
-<li>早上补水</li>
-<li>早上称体重</li>
-<li>晚上刷牙</li>
-<li>晚上洗澡</li>
-<li>晚上补水</li>
-<li>深蹲</li>
 </ul>
 ]]></content>
     </entry>
