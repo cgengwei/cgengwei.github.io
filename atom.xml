@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-12-23T06:40:14.227Z</updated>
+    <updated>2020-12-23T22:42:42.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,53 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[经验教训]]></title>
+        <id>https://cgengwei.github.io/post/jing-yan-jiao-xun/</id>
+        <link href="https://cgengwei.github.io/post/jing-yan-jiao-xun/">
+        </link>
+        <updated>2020-12-23T22:32:24.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1-执行力很重要">1、执行力很重要</h1>
+<pre><code>尽管去做
+</code></pre>
+<ul>
+<li>我曾经的领导曾跟我说，职场中执行力很重要。</li>
+<li>生活中、执行力也非常重要</li>
+<li>不要拖延、尽管去做/遇到问题就去解决</li>
+<li>可以用一些小技巧
+<ul>
+<li>远离干扰你的手机</li>
+<li>倒计时5秒开始行动</li>
+<li>请务必保证你已经休息好了</li>
+</ul>
+</li>
+</ul>
+<h1 id="2-睡眠决定生命的质量">2、睡眠决定生命的质量</h1>
+<pre><code>给睡眠安排足够的时间，他决定你第二天的状态
+</code></pre>
+<ul>
+<li>熬夜一时爽，第二天火葬场</li>
+<li>规律的作息，应该也是人生一堂课吧</li>
+</ul>
+<h1 id="3-如果有很多问题要解决解决最主要的">3、如果有很多问题要解决，解决最主要的</h1>
+<pre><code>解决主要矛盾——这应该是教员矛盾论的东西
+</code></pre>
+<ul>
+<li>
+<p>举例说明</p>
+<ul>
+<li>当你在学一个东西的时候，你会发现你会遇到很多东西，例如学spring源码，你会发现你需要了解gradle、了解很多很多。。。</li>
+<li>这个时候，你应当适当了解那些事情，然后快速转回来学习spring、不要因为其他事情而一直耽误这个最重要的事情。</li>
+<li>当时把spring源码看完的时候，再回首看看这些事情。看那些可以作为主要矛盾入手解决。</li>
+</ul>
+</li>
+<li>
+<p>完美主义不可取</p>
+</li>
+<li></li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20201109 随写]]></title>
         <id>https://cgengwei.github.io/post/20201109suixie/</id>
@@ -598,76 +645,6 @@
 <li>晚上洗完澡补水</li>
 <li>深蹲</li>
 <li>早上剃胡子</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20200831]]></title>
-        <id>https://cgengwei.github.io/post/20200831/</id>
-        <link href="https://cgengwei.github.io/post/20200831/">
-        </link>
-        <updated>2020-08-31T12:31:03.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="自言自语">自言自语</h1>
-<ul>
-<li>周末两天花了一天找房子，花了一天搬东西，新家这边基本也是整顿好了。现在就差热水器+洗衣机。</li>
-<li>有时还是挺想念一个人的</li>
-<li>感觉钱还是不够花呀，存不下钱</li>
-</ul>
-<h1 id="困难挫折">困难+挫折</h1>
-<figure data-type="image" tabindex="1"><img src="https://cgengwei.github.io/post-images/1598886651098.jpg" alt="" loading="lazy"></figure>
-<ul>
-<li>培训课程这些天都没有动
-<ul>
-<li>自我感觉的原因
-<ol>
-<li>自己本身觉得这事还挺麻烦的，就一直放着，不去做</li>
-<li>本身这个事情需要拆解步骤，这个最重要的步骤一直没有做</li>
-</ol>
-</li>
-<li>解决方案
-<ul>
-<li>找一个小时把这个事情的步骤拆解出来，然后按照计划的时间去做</li>
-<li>不停地暗示自己，自己喜欢解决问题，进步成长</li>
-<li>偶尔提醒自己，自己不去做，那么这个事情永远就在这里了</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>背单词、阅读这两个习惯就一直没有做起来
-<ul>
-<li>自我感觉的原因
-<ul>
-<li>对于这两个习惯，具体要做什么，没有明确的定义，没有给出大概需要花费的时间</li>
-<li>自己感觉还是没有养成按照滴答清单来走一天的进程</li>
-</ul>
-</li>
-<li>解决方法
-<ul>
-<li>不停地提醒自己，使用gdt来安排自己的时间和计划</li>
-<li>对于这两个不明确的习惯，需要花10分钟要定一下每天具体需要做什么</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h1 id="成功日记">成功日记</h1>
-<h2 id=""><img src="https://cgengwei.github.io/post-images/1598886600336.jpg" alt="" loading="lazy"></h2>
-<p><strong>生活</strong></p>
-<ul>
-<li>宽带</li>
-<li>买风扇、椅子</li>
-<li>洗衣服</li>
-<li>找房东（问题待解决）</li>
-</ul>
-<hr>
-<p><strong>习惯</strong></p>
-<ul>
-<li>记账</li>
-<li>写日记</li>
-<li>早晚刷牙</li>
-<li>洗澡补水</li>
-<li>早上刷牙洗脸</li>
-<li>早上称体重</li>
 </ul>
 ]]></content>
     </entry>
