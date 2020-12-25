@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-12-25T02:42:29.645Z</updated>
+    <updated>2020-12-25T02:46:42.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -74,7 +74,8 @@
 <ul>
 <li>你会成为你想要成为的那个人</li>
 <li>你的进度会一直往前走</li>
-<li>你的快乐会持续</li>
+<li>你的快乐会持续<br>
+2020.12.25</li>
 </ul>
 <h1 id="5-学会与自己的情绪相处">5、学会与自己的情绪相处</h1>
 <pre><code>当情绪不好的时候，优先调整情绪，不做任何决策和事情
