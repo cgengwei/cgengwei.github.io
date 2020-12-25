@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2020-12-25T02:37:17.046Z</updated>
+    <updated>2020-12-25T02:42:29.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -52,12 +52,9 @@
 <li>完美主义不可取</li>
 </ul>
 <h1 id="4-当你放纵沦陷你明知怎么做但是你没有">4、当你放纵沦陷，你明知怎么做，但是你没有</h1>
-<blockquote>
-<p>做法</p>
-</blockquote>
-<ul>
-<li>做积极的选择</li>
-</ul>
+<pre><code>做积极的选择
+放纵、犯错、沉迷在所难免，愿你习得调整的方法
+</code></pre>
 <blockquote>
 <p>消极应对</p>
 </blockquote>
@@ -79,6 +76,9 @@
 <li>你的进度会一直往前走</li>
 <li>你的快乐会持续</li>
 </ul>
+<h1 id="5-学会与自己的情绪相处">5、学会与自己的情绪相处</h1>
+<pre><code>当情绪不好的时候，优先调整情绪，不做任何决策和事情
+</code></pre>
 ]]></content>
     </entry>
     <entry>
