@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2021-01-06T02:17:25.065Z</updated>
+    <updated>2021-01-06T02:48:17.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[2021，我来了]]></title>
+        <id>https://cgengwei.github.io/post/2021wo-lai-liao/</id>
+        <link href="https://cgengwei.github.io/post/2021wo-lai-liao/">
+        </link>
+        <updated>2021-01-06T02:29:15.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>写一下之前的一些感悟</p>
+</blockquote>
+<ul>
+<li>贪心是最大的敌人</li>
+<li>不必对昨天太过苛刻</li>
+<li>记录——自驱&amp;自省</li>
+<li>尽你所能，记住&amp;留住生活中的美好和善意</li>
+</ul>
+<blockquote>
+<p>想做到的事情</p>
+</blockquote>
+<ul>
+<li>拉勾教育的课程（1月到6月）</li>
+<li>算法、刷leetcode（1月到6月）</li>
+<li>换一份满意的工作（3月到10月）</li>
+<li>减肥（7月到12月）</li>
+<li>慢慢开始理财（全年）</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020年，感谢曾经来过]]></title>
         <id>https://cgengwei.github.io/post/2020-nian-gan-xie-ceng-jing-lai-guo/</id>
@@ -96,17 +123,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20210105随想]]></title>
-        <id>https://cgengwei.github.io/post/20210105-sui-xiang/</id>
-        <link href="https://cgengwei.github.io/post/20210105-sui-xiang/">
-        </link>
-        <updated>2021-01-05T14:15:23.000Z</updated>
-        <content type="html"><![CDATA[<p>亲爱的，新年好。<br>
-辞去2020，非常美好的一年，收货颇丰的一年。<br>
-回首过去的一年，</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[经验教训]]></title>
         <id>https://cgengwei.github.io/post/jing-yan-jiao-xun/</id>
         <link href="https://cgengwei.github.io/post/jing-yan-jiao-xun/">
@@ -176,6 +192,25 @@
 <h1 id="5-学会与自己的情绪相处">5、学会与自己的情绪相处</h1>
 <pre><code>当情绪不好的时候，优先调整情绪，不做任何决策和事情
 </code></pre>
+<h1 id="6-面对失败挫折">6、面对失败/挫折</h1>
+<ul>
+<li>你要明白这正是你做一件事情意义最大的事情，他能使你进步，几乎是唯一的意义</li>
+<li>不要逃避它，去面对他</li>
+<li>当发现解决了这个问题，你已经拥有针对这类问题的一个实践过的解决方案</li>
+<li>当发现问题，要解决问题，有一套非常必要的流程需要走(出自《原则》)<pre><code>步骤：
+1．有明确的目标。
+2．找到阻碍你实现这些目标的问题，并且不容忍问题。
+3．准确诊断问题，找到问题的根源。
+4．规划可以解决问题的方案。
+5．做一切必要的事来践行这些方案，实现成果。
+
+ 出现问题怎么办？
+1. 先把问题是什么弄明白，再决定怎么做。
+2. 区分直接原因和根本原因
+3. 认识到了解人（包括你自己）的特性，有助于对其形成合理预期
+</code></pre>
+</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
