@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2021-02-17T07:05:10.163Z</updated>
+    <updated>2021-04-27T08:43:52.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[《冷读术》]]></title>
+        <id>https://cgengwei.github.io/post/lesslessleng-du-zhu-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslessleng-du-zhu-greatergreater/">
+        </link>
+        <updated>2021-02-18T07:03:43.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="书本信息">书本信息</h1>
+<ul>
+<li>作者：石真语</li>
+</ul>
+<h1 id="感悟">感悟</h1>
+<ul>
+<li>聊天的时候，分步骤
+<ul>
+<li>阅读对面</li>
+<li>建立联系和信任</li>
+<li>想一个能够达成目的的方式去聊天</li>
+<li>聊天</li>
+</ul>
+</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[头脑风暴-人生怎么过好]]></title>
         <id>https://cgengwei.github.io/post/tou-nao-feng-bao-ren-sheng-zen-me-guo-hao/</id>
@@ -452,54 +475,6 @@
 <h1 id="todo-原则为核心">TODO 原则为核心</h1>
 </li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20201109 随写]]></title>
-        <id>https://cgengwei.github.io/post/20201109suixie/</id>
-        <link href="https://cgengwei.github.io/post/20201109suixie/">
-        </link>
-        <updated>2020-11-09T15:53:20.000Z</updated>
-        <content type="html"><![CDATA[<p>又是感觉好久好久了，都没有写博客，没有写心得了。<br>
-现在想把自己稀碎的生活重新捡起来。<br>
-我希望是这个样子的：</p>
-<ul>
-<li>不与他人比对，只与昨天做比对。
-<ul>
-<li>跟别人比，不合理，不切实际</li>
-<li>别人的节奏跟你的节奏不一致</li>
-<li>别人的阶段跟你的阶段不一致</li>
-<li>你有你的路呀。</li>
-</ul>
-</li>
-<li>享受生活，享受这个奋斗的过程。
-<ul>
-<li>我不想自己走到最后的最后，回头想想自己丢失其他的一切。</li>
-<li>我不想自己获得成功，却丢失了初心。</li>
-<li>我不想自己获得成功，一路上却毫无乐趣可言。</li>
-<li>亲情、友情、爱情不能丢呀，亲爱的。</li>
-</ul>
-</li>
-<li>记录自己生活的点点滴滴。
-<ul>
-<li>我不想当自己回首人生路时，却发现自己一无所获。</li>
-<li>我不想当自己面对失败，面对挫折，只会觉得自己不行。</li>
-<li>我不想当自己需要鼓励的时候，却找不到自己一路是怎么走过来的，想要站起来也站不起来。</li>
-</ul>
-</li>
-<li>目标和计划不能丢呀，但是也要量力而行
-<ul>
-<li>千万不要一下子啊太多了，那样子可能到最后一事无成。</li>
-<li>慢慢地成为那个自己想要成为的那个人。</li>
-<li>计划应该是告诉自己该怎么走，而不是把自己把死胡同里面逼。</li>
-</ul>
-</li>
-</ul>
-<h1 id="吃鸡快乐">吃鸡快乐</h1>
-<figure data-type="image" tabindex="1"><img src="https://cgengwei.github.io/post-images/1604937741632.jpg" alt="" loading="lazy"></figure>
-<h1 id="我喜欢的街道">我喜欢的街道</h1>
-<p><img src="https://cgengwei.github.io/post-images/1604937769159.jpg" alt="" loading="lazy"><br>
-<img src="https://cgengwei.github.io/post-images/1604937776246.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
