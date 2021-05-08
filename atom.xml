@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2021-05-08T02:35:07.230Z</updated>
+    <updated>2021-05-08T18:41:42.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -119,6 +119,12 @@
 <li>这个项目的项目管理真是垃圾，垃圾中的垃圾</li>
 <li>需求都没整理出来，前端、UI啥都没有就后端开始开发</li>
 <li>这个项目一直没有进行迭代，直到最后才开始测试</li>
+<li>一个比较遗憾的事情
+<ul>
+<li>当时的我，真的没有做好成为一个小组长的准备，也没有那个能力。</li>
+<li>哈哈，我尽力了。</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
