@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cgengwei.github.io</id>
     <title>cgengwei</title>
-    <updated>2021-06-29T12:27:29.952Z</updated>
+    <updated>2021-08-23T20:20:30.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cgengwei.github.io"/>
     <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://cgengwei.github.io/images/avatar.png</logo>
     <icon>https://cgengwei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, cgengwei</rights>
+    <entry>
+        <title type="html"><![CDATA[20210712随写]]></title>
+        <id>https://cgengwei.github.io/post/20210712-sui-xie/</id>
+        <link href="https://cgengwei.github.io/post/20210712-sui-xie/">
+        </link>
+        <updated>2021-07-11T18:33:50.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="心理感受">心理感受</h2>
+<p>时间飞快，已经离职两个多月了。<br>
+现在开始感觉有点压力了，自己学习的进度还是一点点，心中慌得不行。</p>
+<h2 id="收获">收获</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[呆在平安的那些日子]]></title>
         <id>https://cgengwei.github.io/post/ai-zai-ping-an-de-na-xie-ri-zi/</id>
@@ -384,91 +396,6 @@
 <li>换一份满意的工作（3月到10月）</li>
 <li>减肥（7月到12月）</li>
 <li>慢慢开始理财（全年）</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020年，感谢曾经来过]]></title>
-        <id>https://cgengwei.github.io/post/2020-nian-gan-xie-ceng-jing-lai-guo/</id>
-        <link href="https://cgengwei.github.io/post/2020-nian-gan-xie-ceng-jing-lai-guo/">
-        </link>
-        <updated>2021-01-05T14:19:30.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>我虽然还是懵懵懂懂，虽然浑浑噩噩直至今日，但是我有信心走好下面的路。</strong></p>
-<blockquote>
-<p>这一路，感谢有你</p>
-</blockquote>
-<ul>
-<li>2020年，收货颇丰的一年。</li>
-<li>2020年，非常感谢，感谢你曾经来过。</li>
-<li>2020年，你让我收获颇丰，哈哈，但是因为我记录的习惯还没养成，我还没能想起这个年，我到底详细地做了什么。</li>
-<li>2020年，非常感谢欧阳，虽然比我小两岁，哈哈，但是明显从见识和能力方面比我强得多了，感谢给了我不少建议和方向。</li>
-<li>2020年，非常感谢老妈，感谢老妈的体谅，感谢老妈的付出。可能从我上高中那一刻，家里也许再也离我很远，没办法在家跟你陪伴你了，但是感谢老妈这么多年来的付出、指导、体谅。这个家，你头等功。</li>
-<li>2020年，非常感谢老妹，感谢你为家里做的，辛苦你了。此时，说一句“幸好有你”不为过。</li>
-<li>2020年，非常感谢林毅、枭雄，非常感谢前女友，非常感谢遇到的每个人，谢谢你们，祝你们越来越好。</li>
-</ul>
-<blockquote>
-<p>最大的收获</p>
-</blockquote>
-<ul>
-<li>贪心是最大的敌人
-<ul>
-<li>不要同时做很多事</li>
-<li>不要对过去的自己太过苛刻，有时候你只是在补你拉下的功课，只是你不自知</li>
-<li>每个人都有自己的时间表，不要和他人做比较</li>
-<li>任何人都是一步步、一个脚印走过来，慢慢来，记得吸取教训</li>
-</ul>
-</li>
-<li>自驱才是最大的动力
-<ul>
-<li>把时间放在你不后悔的事情上</li>
-<li>把时间放在你想做的事情上</li>
-</ul>
-</li>
-<li>胸怀
-<ul>
-<li>看到别人好的，承认他，如果可以，向他学习</li>
-<li>多看看这个世界，他们有他们的生活方式</li>
-</ul>
-</li>
-<li>记录
-<ul>
-<li>这里承载了自驱和自省</li>
-<li>另外，你也能看到自己的成长</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p>做了什么事？</p>
-</blockquote>
-<ul>
-<li>学了理财的皮毛</li>
-<li>学了java源码的皮毛</li>
-<li>看了几本书吧</li>
-<li>为平安奉献了我的一年吧</li>
-</ul>
-<blockquote>
-<p>佩服的人和事</p>
-</blockquote>
-<ul>
-<li>教员无敌，教员牛皮
-<ul>
-<li>找机会学一下毛概、矛盾论、毛泽东思想</li>
-</ul>
-</li>
-<li>秦始皇不愧为千古一帝</li>
-<li>欧阳杰有很多闪光点值得我学习</li>
-</ul>
-<blockquote>
-<p>想做的事情</p>
-</blockquote>
-<ul>
-<li>培养记录的习惯、</li>
-<li>培养看新闻联播的习惯、</li>
-<li>培养幽默的思维、</li>
-<li>培养看书的习惯</li>
-<li>减肥</li>
-<li>学习拉勾课程、换工作</li>
-<li>学习如何说话：套话、化解尴尬、活跃气氛</li>
 </ul>
 ]]></content>
     </entry>
