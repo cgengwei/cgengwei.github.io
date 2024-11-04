@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cgengwei.github.io</id>
+    <title>把“想要的”变成“现实”很酷</title>
+    <updated>2024-11-04T15:03:49.017Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cgengwei.github.io"/>
+    <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
+    <subtitle>把“想要的”变成“现实”很酷</subtitle>
+    <logo>https://cgengwei.github.io/images/avatar.png</logo>
+    <icon>https://cgengwei.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 把“想要的”变成“现实”很酷</rights>
+    <entry>
+        <title type="html"><![CDATA[又迷迷糊糊地过了一段时间]]></title>
+        <id>https://cgengwei.github.io/post/you-mi-mi-hu-hu-di-guo-liao-yi-duan-shi-jian/</id>
+        <link href="https://cgengwei.github.io/post/you-mi-mi-hu-hu-di-guo-liao-yi-duan-shi-jian/">
+        </link>
+        <updated>2024-11-04T14:07:13.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说我最近的感悟吧]]></title>
+        <id>https://cgengwei.github.io/post/shuo-shuo-wo-zui-jin-de-gan-wu-ba/</id>
+        <link href="https://cgengwei.github.io/post/shuo-shuo-wo-zui-jin-de-gan-wu-ba/">
+        </link>
+        <updated>2024-10-06T04:01:15.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何制定适合自身的减肥计划？]]></title>
+        <id>https://cgengwei.github.io/post/ru-he-zhi-ding-gua-he-zi-shen-de-jian-fei-ji-hua/</id>
+        <link href="https://cgengwei.github.io/post/ru-he-zhi-ding-gua-he-zi-shen-de-jian-fei-ji-hua/">
+        </link>
+        <updated>2022-10-27T00:04:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小学一年级视频]]></title>
+        <id>https://cgengwei.github.io/post/xiao-xue-yi-nian-ji-shi-pin/</id>
+        <link href="https://cgengwei.github.io/post/xiao-xue-yi-nian-ji-shi-pin/">
+        </link>
+        <updated>2022-10-09T15:42:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《态度》]]></title>
+        <id>https://cgengwei.github.io/post/lesslesstai-du-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslesstai-du-greatergreater/">
+        </link>
+        <updated>2022-09-28T19:03:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vpn gate测试]]></title>
+        <id>https://cgengwei.github.io/post/vpn-gate-ce-shi/</id>
+        <link href="https://cgengwei.github.io/post/vpn-gate-ce-shi/">
+        </link>
+        <updated>2022-09-23T11:53:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《掌握习惯》]]></title>
+        <id>https://cgengwei.github.io/post/lesslesszhang-wo-xi-guan-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslesszhang-wo-xi-guan-greatergreater/">
+        </link>
+        <updated>2022-06-26T14:12:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 三月新闻联播]]></title>
+        <id>https://cgengwei.github.io/post/2022-san-yue-xin-wen-lian-bo/</id>
+        <link href="https://cgengwei.github.io/post/2022-san-yue-xin-wen-lian-bo/">
+        </link>
+        <updated>2022-03-07T14:11:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021十一月份 新闻联播]]></title>
+        <id>https://cgengwei.github.io/post/2021-shi-yi-yue-fen-xin-wen-lian-bo/</id>
+        <link href="https://cgengwei.github.io/post/2021-shi-yi-yue-fen-xin-wen-lian-bo/">
+        </link>
+        <updated>2021-11-15T15:37:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年11月15日-2023年11月15日]]></title>
+        <id>https://cgengwei.github.io/post/2021-nian-11-yue-15-ri-2023-nian-11-yue-15-ri/</id>
+        <link href="https://cgengwei.github.io/post/2021-nian-11-yue-15-ri-2023-nian-11-yue-15-ri/">
+        </link>
+        <updated>2021-11-14T21:17:36.000Z</updated>
+    </entry>
+</feed>
