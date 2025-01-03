@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>groovy 入门 | 把“想要的”变成“现实”很酷</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://cgengwei.github.io/favicon.ico?v=1735924707374">
+<link rel="stylesheet" href="https://cgengwei.github.io/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="为什么学groovy
+
+其实就是因为gradle要用
+哎，就是这么功利，如果gradle不用就不管他了
+
+groovy印象
+
+就是一个运行在jvm的脚本语言
+语法跟java差别还是有的，总而言之，简便很多。
+
+参考文档
+
+极客时间groov..." />
+    <meta name="keywords" content="groovy" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://cgengwei.github.io">
+        <img src="https://cgengwei.github.io/images/avatar.png?v=1735924707374" class="site-logo">
+        <h1 class="site-title">把“想要的”变成“现实”很酷</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/post/xin-nian/" class="site-nav">
+            信念
+          </a>
+        
+      
+        
+          <a href="/post/ri-chang-hao-xi-guan" class="site-nav">
+            我的清单
+          </a>
+        
+      
+        
+          <a href="/post/jing-yan-jiao-xun" class="site-nav">
+            经验教训
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      把“想要的”变成“现实”很酷
+    </div>
+    <div class="site-footer">
+       | <a class="rss" href="https://cgengwei.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">groovy 入门</h2>
+            <div class="post-date">2020-05-27</div>
+            
+              <div class="feature-container" style="background-image: url('https://raw.githubusercontent.com/cgengwei/images/master/img/20200527230610.png')">
+              </div>
+            
+            <div class="post-content" v-pre>
+              <h1 id="为什么学groovy">为什么学groovy</h1>
+<ul>
+<li>其实就是因为gradle要用</li>
+<li>哎，就是这么功利，如果gradle不用就不管他了</li>
+</ul>
+<h1 id="groovy印象">groovy印象</h1>
+<ul>
+<li>就是一个运行在jvm的脚本语言</li>
+<li>语法跟java差别还是有的，总而言之，简便很多。</li>
+</ul>
+<h1 id="参考文档">参考文档</h1>
+<ul>
+<li><a href="https://wiki.jikexueyuan.com/project/groovy-introduction/style-guide.html">极客时间groovy语法入门</a>
+<ul>
+<li>很简短，很简洁</li>
+<li>很适合一上来就看</li>
+<li>当然，你还需要找一个教程去搭建个环境试试</li>
+</ul>
+</li>
+<li><a href="https://www.jianshu.com/p/5d30f1443aa6">Groovy从入门到精通</a>
+<ul>
+<li>这篇文章讲得是真的非常细，看完基本就真的是精通了</li>
+<li>不过不建议一上来就看这篇文档，先大概了解groovy的大概内容</li>
+</ul>
+</li>
+</ul>
+<h1 id="自己觉得需要注意的点">自己觉得需要注意的点</h1>
+<ul>
+<li>每个句子不需要“；”默认换行就是分隔</li>
+<li>一个groovy文件，默认是会引入很多包的</li>
+<li>对于groovy的list，map声明 &amp;&amp; 文件的操作 还是需要了解一下，可能会经常用到</li>
+<li>对于一个groovy文件，可以声明多个公共类，声明的类默认都是公共类，哈哈哈</li>
+<li>对于没有类包起来的代码，那么他就会被立马执行（跟js挺相似的）</li>
+<li>这里的方法相当于一个对象（叫做闭包Closure）</li>
+<li>一个方法（闭包）没有return语句，默认返回最后一句的执行结果</li>
+</ul>
+<p>来个实例文件 test.groovy</p>
+<pre><code>class Book {
+    String title
+}
+class Good{
+    String name
+    Closure closure = {
+        println 'i am closure'
+    }
+}
+
+Book.metaClass.author = &quot;Stephen King&quot;
+def b = new Book()
+
+def goodDemo = new Good()
+goodDemo.name = 'asdfkjasf'
+goodDemo.closure()
+
+assert &quot;Stephen King&quot; == b.author
+println goodDemo.name
+println 'asdkfjakdfj'
+
+</code></pre>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://cgengwei.github.io/tag/n1Cfnesd9/" class="tag">
+                    groovy
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://cgengwei.github.io/post/20200225-xiang-fa/">
+                  <h3 class="post-title">
+                    20200225想法
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'Ov23liVVryBWSFfEeXqk',
+        clientSecret: '2ec94706849cd1f9ea152a94d8d35404912918f0',
+        repo: 'cgengwei.github.io',
+        owner: 'cgengwei',
+        admin: ['cgengwei'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

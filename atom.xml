@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cgengwei.github.io</id>
+    <title>把“想要的”变成“现实”很酷</title>
+    <updated>2025-01-03T17:38:04.747Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cgengwei.github.io"/>
+    <link rel="self" href="https://cgengwei.github.io/atom.xml"/>
+    <subtitle>把“想要的”变成“现实”很酷</subtitle>
+    <logo>https://cgengwei.github.io/images/avatar.png</logo>
+    <icon>https://cgengwei.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 把“想要的”变成“现实”很酷</rights>
+    <entry>
+        <title type="html"><![CDATA[信念]]></title>
+        <id>https://cgengwei.github.io/post/xin-nian/</id>
+        <link href="https://cgengwei.github.io/post/xin-nian/">
+        </link>
+        <updated>2025-01-03T15:14:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《富有的习惯》]]></title>
+        <id>https://cgengwei.github.io/post/lesslessfu-you-de-xi-guan-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslessfu-you-de-xi-guan-greatergreater/">
+        </link>
+        <updated>2024-12-29T16:16:15.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天的感悟]]></title>
+        <id>https://cgengwei.github.io/post/jin-tian-de-gan-wu/</id>
+        <link href="https://cgengwei.github.io/post/jin-tian-de-gan-wu/">
+        </link>
+        <updated>2024-12-29T16:00:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又迷迷糊糊地过了一段时间]]></title>
+        <id>https://cgengwei.github.io/post/you-mi-mi-hu-hu-di-guo-liao-yi-duan-shi-jian/</id>
+        <link href="https://cgengwei.github.io/post/you-mi-mi-hu-hu-di-guo-liao-yi-duan-shi-jian/">
+        </link>
+        <updated>2024-11-04T14:07:13.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说我最近的感悟吧]]></title>
+        <id>https://cgengwei.github.io/post/shuo-shuo-wo-zui-jin-de-gan-wu-ba/</id>
+        <link href="https://cgengwei.github.io/post/shuo-shuo-wo-zui-jin-de-gan-wu-ba/">
+        </link>
+        <updated>2024-10-06T04:01:15.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何制定适合自身的减肥计划？]]></title>
+        <id>https://cgengwei.github.io/post/ru-he-zhi-ding-gua-he-zi-shen-de-jian-fei-ji-hua/</id>
+        <link href="https://cgengwei.github.io/post/ru-he-zhi-ding-gua-he-zi-shen-de-jian-fei-ji-hua/">
+        </link>
+        <updated>2022-10-27T00:04:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小学一年级视频]]></title>
+        <id>https://cgengwei.github.io/post/xiao-xue-yi-nian-ji-shi-pin/</id>
+        <link href="https://cgengwei.github.io/post/xiao-xue-yi-nian-ji-shi-pin/">
+        </link>
+        <updated>2022-10-09T15:42:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《态度》]]></title>
+        <id>https://cgengwei.github.io/post/lesslesstai-du-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslesstai-du-greatergreater/">
+        </link>
+        <updated>2022-09-28T19:03:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vpn gate测试]]></title>
+        <id>https://cgengwei.github.io/post/vpn-gate-ce-shi/</id>
+        <link href="https://cgengwei.github.io/post/vpn-gate-ce-shi/">
+        </link>
+        <updated>2022-09-23T11:53:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《掌握习惯》]]></title>
+        <id>https://cgengwei.github.io/post/lesslesszhang-wo-xi-guan-greatergreater/</id>
+        <link href="https://cgengwei.github.io/post/lesslesszhang-wo-xi-guan-greatergreater/">
+        </link>
+        <updated>2022-06-26T14:12:18.000Z</updated>
+    </entry>
+</feed>
